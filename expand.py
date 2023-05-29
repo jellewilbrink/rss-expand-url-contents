@@ -45,7 +45,7 @@ def expand_rss_to_url(
                     site_soup = BeautifulSoup(site_xml, "html.parser")
 
                     element = site_soup.find(*bs4_find_all_params)
-
+                    # element="<p>hoi</p>"
                     # x = ""
                     # try:
                     #     for s in element.findAll(string=True):
@@ -56,17 +56,18 @@ def expand_rss_to_url(
                     # element = x
                     # print(element)
 
-                    prev_hrefs[a["href"]] = element
+                    prev_hrefs[a["href"]] = copy.deepcopy(element)
 
                 if element != None:
-                    a.replace_with(element)
+                    print(element)
+                    a.parent.insert_after(element)
 
         txt.replace_with(inner_feed_soup)
 
     # Get plain text, because CDATA tag is lost in parser
     str_feed = str(feed_soup)
-    str_feed=str_feed.replace("<description>", "<description><![CDATA[")
-    str_feed=str_feed.replace("</description>", "]]></description>")
+    str_feed = str_feed.replace("<description>", "<description><![CDATA[")
+    str_feed = str_feed.replace("</description>", "]]></description>")
 
     # new_feed_soup = BeautifulSoup(str(copy.deepcopy(feed_soup)), "xml")
 
@@ -93,3 +94,9 @@ if __name__ == "__main__":
 
     myfile = open("build/rss.xml", "w", encoding="utf-8")
     myfile.write(feed_out)
+
+    feed_in2 = "https://anchor.fm/s/4adac90c/podcast/rss"
+    feed_out2 = expand_rss_to_url(feed_in2, url_pattern, element_pattern)
+
+    myfile = open("build/rss2.xml", "w", encoding="utf-8")
+    myfile.write(feed_out2)
