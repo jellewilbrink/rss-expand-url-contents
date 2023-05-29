@@ -59,5 +59,5 @@ if __name__ == "__main__":
     element_pattern=("div",{'class': 'wp-block-group__inner-container'})
     feed_out = expand_rss_to_url(feed_in, url_pattern, element_pattern)
 
-    myfile = open("items2.xml", "w", encoding='utf-8')
+    myfile = open("build/rss.xml", "w", encoding='utf-8')
     myfile.write(feed_out)
