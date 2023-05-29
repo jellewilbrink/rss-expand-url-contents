@@ -47,11 +47,10 @@ def expand_rss_to_url(
                     print(f"Parsing {a['href'] }")
                     
                     req_counter +=1
-                    # site_xml = requests.get(a["href"]).text
-                    # site_soup = BeautifulSoup(site_xml, 'html.parser')
+                    site_xml = requests.get(a["href"]).text
+                    site_soup = BeautifulSoup(site_xml, 'html.parser')
 
-                    # element = site_soup.find(*bs4_find_all_params)
-                    element = "hoi"
+                    element = site_soup.find(*bs4_find_all_params)
                     prev_hrefs[a["href"]] = element
 
                 if element != None:
