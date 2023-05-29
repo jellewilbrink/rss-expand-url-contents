@@ -46,15 +46,15 @@ def expand_rss_to_url(
 
                     element = site_soup.find(*bs4_find_all_params)
 
-                    x = ""
-                    try:
-                        for s in element.findAll(string=True):
-                            x += s
-                    except AttributeError:
-                        pass
+                    # x = ""
+                    # try:
+                    #     for s in element.findAll(string=True):
+                    #         x += s
+                    # except AttributeError:
+                    #     pass
 
-                    element = x
-                    print(element)
+                    # element = x
+                    # print(element)
 
                     prev_hrefs[a["href"]] = element
 
@@ -64,21 +64,25 @@ def expand_rss_to_url(
         txt.replace_with(inner_feed_soup)
 
     # Get plain text, because CDATA tag is lost in parser
-    new_feed_soup = BeautifulSoup(str(copy.deepcopy(feed_soup)), "xml")
+    str_feed = str(feed_soup)
+    str_feed=str_feed.replace("<description>", "<description><![CDATA[")
+    str_feed=str_feed.replace("</description>", "]]></description>")
 
-    all_description_tags = new_feed_soup.findAll("description")
+    # new_feed_soup = BeautifulSoup(str(copy.deepcopy(feed_soup)), "xml")
 
-    for d in all_description_tags:
-        txt = ""
-        for s in d.findAll(string=True):
-            txt += s
+    # all_description_tags = new_feed_soup.findAll("description")
 
-        copy_of_d = copy.deepcopy(d)
-        copy_of_d.string = txt
-        d.replace_with(copy_of_d)
+    # for d in all_description_tags:
+    #     txt = ""
+    #     for s in d.findAll(string=True):
+    #         txt += s
+
+    #     copy_of_d = copy.deepcopy(d)
+    #     copy_of_d.string = txt
+    #     d.replace_with(copy_of_d)
 
     print(f"Number of requests made: {req_counter}")
-    return str(new_feed_soup)
+    return str(str_feed)
 
 
 if __name__ == "__main__":
