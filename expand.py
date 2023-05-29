@@ -59,7 +59,6 @@ def expand_rss_to_url(
                     prev_hrefs[a["href"]] = copy.deepcopy(element)
 
                 if element != None:
-                    print(element)
                     a.parent.insert_after(element)
 
         txt.replace_with(inner_feed_soup)
@@ -98,5 +97,5 @@ if __name__ == "__main__":
     feed_in2 = "https://anchor.fm/s/4adac90c/podcast/rss"
     feed_out2 = expand_rss_to_url(feed_in2, url_pattern, element_pattern)
 
-    myfile = open("build/rss2.xml", "w", encoding="utf-8")
-    myfile.write(feed_out2)
+    myfile2 = open("build/rss2.xml", "w", encoding="utf-8")
+    myfile2.write(feed_out2)
