@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<rss version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters">
 <channel>
 <title>Norsk for Beginners</title>
 <description><![CDATA[Norsk for Beginners is a podcast aimed at beginners of Norwegian (A1-A2). The episodes are structured in two parts: One Norwegian speaking part and the second in English, explaining the Norwegian part and examining some Norwegian vocabulary used in the episode. I speak Norwegian in a clear, slow and deliberate manner, perfect for beginners. Get some listening practice by listening to "Norsk for Beginners"! ]]></description>
 <link>https://laernorsknaa.com/category/norsk-for-beginners/</link>
-<image>
-<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12458523/12458523-1612293410160-23a9be9fbb4dc.jpg</url>
-<title>Norsk for Beginners</title>
-<link>https://laernorsknaa.com/category/norsk-for-beginners/</link>
-</image>
 <generator>Anchor Podcasts</generator>
-<lastBuildDate>Tue, 27 May 2025 16:04:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Jun 2025 09:24:03 GMT</lastBuildDate>
 <atom:link href="https://anchor.fm/s/4adac90c/podcast/rss" rel="self" type="application/rss+xml"/>
 <author>Marius Stangeland</author>
 <copyright>Marius Stangeland</copyright>
@@ -23,11 +18,95 @@
 <itunes:name>Marius Stangeland</itunes:name>
 <itunes:email>podcasts60+4adac90c@anchor.fm</itunes:email>
 </itunes:owner>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education">
 <itunes:category text="Language Learning"/>
 </itunes:category>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12458523/12458523-1612293410160-23a9be9fbb4dc.jpg"/>
+<item>
+<title>Easy Stories in Norwegian: Keiserens nye klær</title>
+<description><![CDATA[<p>Buy the book and audiobook "Learn Norwegian with Norse Mythology" : <a href=" https://buy.stripe.com/bIYdT7dCM1wLeVGdQQ?locale=en&amp;__embed_source=buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1" rel="ugc noopener noreferrer" target="_blank">https://buy.stripe.com/bIYdT7dCM1wLeVGdQQ?locale=en&amp;__embed_source=buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1⁠⁠⁠</a></p><p><br/></p><p>More information about the book:<a href="https://laernorsknaa.com/shop-butikk/" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠Shop – Lær norsk nå⁠⁠</a></p><p>-------------------------------------------------------------------</p><p><br/></p><p>Email: Laernorsknaa@gmail.com</p><p>Transcript: <a href="https://laernorsknaa.com/easy-stories-in-norwegian-keiserens-nye-klaer/" rel="noopener noreferer" target="_blank">https://laernorsknaa.com/easy-stories-in-norwegian-keiserens-nye-klaer/</a></p><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<p>Check out my new book: “Learn Norwegian with Norse Mythology”. 10 amazing myths rewritten to suit learners of Norwegian. Audiobook included. Take your Norwegian to the next level, while learning about Norse mythology!</p>
+<p><script async="" src="https://js.stripe.com/v3/buy-button.js">
+</script></p>
+<p><stripe-buy-button buy-button-id="buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1" publishable-key="pk_live_51QgguWLUx0JXaC0NTsJxeJym3Cl295dAAJjwLFpI34pj01BBsF5mRR71iWYQiTZqCuylXJtUpKeZ9v2F3N3Lcp9p00R3ZDcgKI"><br/>
+</stripe-buy-button></p>
+<p></p>
+<p>Det var en gang en keiser som var keiser i et stort land. Keiseren elsket klær. Han brukte all sin tid og alle pengene på klær. Faktisk brukte han så mye penger på klær at de ikke hadde råd til å bygge nye veier i landet. Faktisk brukte han så mye penger på klær at de ikke hadde råd til å ta vare på landet. Men det brydde ikke keiseren seg om. Han brydde seg bare om de vakre klærne han hadde.</p>
+<p>En dag kom det to vevere til keiseren. De sa at de var de dyktigste veverne i landet. At de kunne lage klær så vakre at bare de intelligente kunne se dem. De dumme kom ikke til å se noe som helst. Så det var bare de smarteste som kunne se klærne som veverne ville lage.</p>
+<p>Keiseren var interessert. Han hadde aldri hørt om klær som bare intelligente mennesker kunne se. Men han var sikker på at han var veldig intelligent. Dette ville han gjerne prøve. Han sa: “Greit, vevere, dere skal få jobbe her på slottet. Dere skal få et rom for dere.” Og slik ble det.</p>
+<p>Veverne begynte å jobbe. I hvert fall var det det keiseren trodde. Men keiseren var litt skeptisk til veverne. Kanskje det var best at han sendte en av ministrene for å sjekke.</p>
+<p>Så en dag sendte keiseren militærministeren for å sjekke hvor langt veverne hadde kommet. Militærministeren så på veven som veverne holdt på å jobbe med. De vevde og de vevde. Men han kunne ikke se noe som helst. Militærministeren kunne ikke se noen tråder. Hva skulle han si? Han ville jo ikke være dum. Han ville ikke… Han måtte lyve. Det måtte jo være noe der.</p>
+<p>Militærministeren gikk tilbake til keiseren og begynte å snakke om hvor vakre klærne veverne holdt på å lage. At de var noe av det vakreste han hadde sett. At keiseren kom til å få de vakreste klærne i hele landet. Kanskje i hele verden. Keiseren ble veldig fornøyd av å høre dette.</p>
+<p>Det gikk uker. Keiseren ville gjerne vite hvor langt veverne hadde kommet. Han sendte finansministeren denne gangen for å sjekke veverne. Finansministeren gikk bort til veverne og så at de holdt på å jobbe og slite med veven. Men han kunne ikke se noen tråder. Han kunne ikke se at de holdt på å lage klær. Han så egentlig ingenting. Han så bare en tom vev.</p>
+<p>Men han ville ikke virke dum. Han hadde hørt at det bare var de dumme som ikke kunne se klærne. I tillegg hadde jo militærministeren beskrevet hvor vakre klærne var. Så finansministeren gikk tilbake til keiseren og begynte å snakke om de helt fantastiske klærne veverne holdt på å lage. Han sa at han aldri hadde sett noe så vakkert i hele sitt liv.</p>
+<p>Keiseren ble veldig fornøyd.</p>
+<p>Det gikk dager, og det gikk uker. Keiseren ville gjerne sjekke selv hvordan klærne så ut. Så keiseren gikk bort til veven. Der så han de to veverne jobbe og slite. Men han kunne egentlig ikke se noe. Han kunne ikke se at det var noen tråder. Han kunne ikke se noen klær heller. Han kunne egentlig ikke se noe som helst.</p>
+<p>Men både militærministeren og finansministeren hadde sett de vakre klærne. Så han begynte bare å snakke om hvor flinke veverne var, og at dette kom til å bli helt fantastisk.</p>
+<p>Så kom dagen. Veverne var endelig ferdige. Keiseren tok av seg klærne. Veverne begynte å ta på ham de nye klærne. Keiseren kunne egentlig ikke se at de tok på ham noe som helst. Han kunne heller ikke kjenne noe, men veverne sa bare at stoffet var så lett at det var helt naturlig. Han kom ikke til å kjenne noe som helst.</p>
+<p>Keiseren så fornøyd på sine nye klær. Sine nye, usynlige klær.</p>
+<p>Keiseren ville gjerne vise fram sine praktfulle, nye klær. Han gikk ut.</p>
+<p>Det var en stor prosesjon. Mange hadde møtt opp, mange bønder og vanlige byfolk hadde kommet for å se keiseren.</p>
+<p>Da keiseren kom ut, var det noe rart. De kunne ikke se noen klær på keiseren, men keiseren og ministrene virket så fornøyde. Det måtte være noe de ikke forsto. De nikket og smilte og hyllet keiseren for sine vakre klær. Dette måtte være helt fantastisk. Tenk at veverne var så flinke.</p>
+<p>Men blant menneskene var det en liten gutt. Han så på keiseren og forsto ingenting. Så han bare ropte ut:</p>
+<p>“Men keiseren har jo ikke klær på seg!”</p>
+<p>Da folk hørte dette lille barnet rope ut det som var helt åpenbart… Keiseren var jo naken. Han hadde jo ikke klær på seg!</p>
+<p>Da begynte alle å le.</p>
+<p>Vel, alle utenom keiseren.</p>
+<p>Og snipp, snapp, snute, så var eventyret ute.</p>
+<p></p>
+<p><script async="" src="https://js.stripe.com/v3/buy-button.js">
+</script></p>
+<p><stripe-buy-button buy-button-id="buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1" publishable-key="pk_live_51QgguWLUx0JXaC0NTsJxeJym3Cl295dAAJjwLFpI34pj01BBsF5mRR71iWYQiTZqCuylXJtUpKeZ9v2F3N3Lcp9p00R3ZDcgKI"><br/>
+</stripe-buy-button></p>
+</div><p><br/></p><p><strong>Support me here --&gt;</strong></p><p>Patreon: <a href="https://www.patreon.com/laernorsknaa" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.patreon.com/laernorsknaa⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>Bildet: Illustration of "The Emperor's New Clothes." Vilhelm Pedersen (1820 - 1859) - Wikimedia Commons</p>
+]]></description>
+<link>https://podcasters.spotify.com/pod/show/marius-stangeland1/episodes/Easy-Stories-in-Norwegian-Keiserens-nye-klr-e30tvip</link>
+<guid isPermaLink="false">0633e744-0e0e-4605-8af4-584f39df6e2b</guid>
+<dc:creator>Marius Stangeland</dc:creator>
+<pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
+<enclosure length="7418521" type="audio/x-m4a" url="https://anchor.fm/s/4adac90c/podcast/play/100645913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-31%2F397575996-44100-2-3ebbf55f3c17a.m4a"/>
+<itunes:summary><p>Buy the book and audiobook "Learn Norwegian with Norse Mythology" : <a href=" https://buy.stripe.com/bIYdT7dCM1wLeVGdQQ?locale=en&amp;__embed_source=buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1" rel="ugc noopener noreferrer" target="_blank">https://buy.stripe.com/bIYdT7dCM1wLeVGdQQ?locale=en&amp;__embed_source=buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1⁠⁠⁠</a></p><p><br/></p><p>More information about the book:<a href="https://laernorsknaa.com/shop-butikk/" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠Shop – Lær norsk nå⁠⁠</a></p><p>-------------------------------------------------------------------</p><p><br/></p><p>Email: Laernorsknaa@gmail.com</p><p>Transcript: <a href="https://laernorsknaa.com/easy-stories-in-norwegian-keiserens-nye-klaer/" rel="noopener noreferer" target="_blank">https://laernorsknaa.com/easy-stories-in-norwegian-keiserens-nye-klaer/</a></p><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<p>Check out my new book: “Learn Norwegian with Norse Mythology”. 10 amazing myths rewritten to suit learners of Norwegian. Audiobook included. Take your Norwegian to the next level, while learning about Norse mythology!</p>
+<p><script async="" src="https://js.stripe.com/v3/buy-button.js">
+</script></p>
+<p><stripe-buy-button buy-button-id="buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1" publishable-key="pk_live_51QgguWLUx0JXaC0NTsJxeJym3Cl295dAAJjwLFpI34pj01BBsF5mRR71iWYQiTZqCuylXJtUpKeZ9v2F3N3Lcp9p00R3ZDcgKI"><br/>
+</stripe-buy-button></p>
+<p></p>
+<p>Det var en gang en keiser som var keiser i et stort land. Keiseren elsket klær. Han brukte all sin tid og alle pengene på klær. Faktisk brukte han så mye penger på klær at de ikke hadde råd til å bygge nye veier i landet. Faktisk brukte han så mye penger på klær at de ikke hadde råd til å ta vare på landet. Men det brydde ikke keiseren seg om. Han brydde seg bare om de vakre klærne han hadde.</p>
+<p>En dag kom det to vevere til keiseren. De sa at de var de dyktigste veverne i landet. At de kunne lage klær så vakre at bare de intelligente kunne se dem. De dumme kom ikke til å se noe som helst. Så det var bare de smarteste som kunne se klærne som veverne ville lage.</p>
+<p>Keiseren var interessert. Han hadde aldri hørt om klær som bare intelligente mennesker kunne se. Men han var sikker på at han var veldig intelligent. Dette ville han gjerne prøve. Han sa: “Greit, vevere, dere skal få jobbe her på slottet. Dere skal få et rom for dere.” Og slik ble det.</p>
+<p>Veverne begynte å jobbe. I hvert fall var det det keiseren trodde. Men keiseren var litt skeptisk til veverne. Kanskje det var best at han sendte en av ministrene for å sjekke.</p>
+<p>Så en dag sendte keiseren militærministeren for å sjekke hvor langt veverne hadde kommet. Militærministeren så på veven som veverne holdt på å jobbe med. De vevde og de vevde. Men han kunne ikke se noe som helst. Militærministeren kunne ikke se noen tråder. Hva skulle han si? Han ville jo ikke være dum. Han ville ikke… Han måtte lyve. Det måtte jo være noe der.</p>
+<p>Militærministeren gikk tilbake til keiseren og begynte å snakke om hvor vakre klærne veverne holdt på å lage. At de var noe av det vakreste han hadde sett. At keiseren kom til å få de vakreste klærne i hele landet. Kanskje i hele verden. Keiseren ble veldig fornøyd av å høre dette.</p>
+<p>Det gikk uker. Keiseren ville gjerne vite hvor langt veverne hadde kommet. Han sendte finansministeren denne gangen for å sjekke veverne. Finansministeren gikk bort til veverne og så at de holdt på å jobbe og slite med veven. Men han kunne ikke se noen tråder. Han kunne ikke se at de holdt på å lage klær. Han så egentlig ingenting. Han så bare en tom vev.</p>
+<p>Men han ville ikke virke dum. Han hadde hørt at det bare var de dumme som ikke kunne se klærne. I tillegg hadde jo militærministeren beskrevet hvor vakre klærne var. Så finansministeren gikk tilbake til keiseren og begynte å snakke om de helt fantastiske klærne veverne holdt på å lage. Han sa at han aldri hadde sett noe så vakkert i hele sitt liv.</p>
+<p>Keiseren ble veldig fornøyd.</p>
+<p>Det gikk dager, og det gikk uker. Keiseren ville gjerne sjekke selv hvordan klærne så ut. Så keiseren gikk bort til veven. Der så han de to veverne jobbe og slite. Men han kunne egentlig ikke se noe. Han kunne ikke se at det var noen tråder. Han kunne ikke se noen klær heller. Han kunne egentlig ikke se noe som helst.</p>
+<p>Men både militærministeren og finansministeren hadde sett de vakre klærne. Så han begynte bare å snakke om hvor flinke veverne var, og at dette kom til å bli helt fantastisk.</p>
+<p>Så kom dagen. Veverne var endelig ferdige. Keiseren tok av seg klærne. Veverne begynte å ta på ham de nye klærne. Keiseren kunne egentlig ikke se at de tok på ham noe som helst. Han kunne heller ikke kjenne noe, men veverne sa bare at stoffet var så lett at det var helt naturlig. Han kom ikke til å kjenne noe som helst.</p>
+<p>Keiseren så fornøyd på sine nye klær. Sine nye, usynlige klær.</p>
+<p>Keiseren ville gjerne vise fram sine praktfulle, nye klær. Han gikk ut.</p>
+<p>Det var en stor prosesjon. Mange hadde møtt opp, mange bønder og vanlige byfolk hadde kommet for å se keiseren.</p>
+<p>Da keiseren kom ut, var det noe rart. De kunne ikke se noen klær på keiseren, men keiseren og ministrene virket så fornøyde. Det måtte være noe de ikke forsto. De nikket og smilte og hyllet keiseren for sine vakre klær. Dette måtte være helt fantastisk. Tenk at veverne var så flinke.</p>
+<p>Men blant menneskene var det en liten gutt. Han så på keiseren og forsto ingenting. Så han bare ropte ut:</p>
+<p>“Men keiseren har jo ikke klær på seg!”</p>
+<p>Da folk hørte dette lille barnet rope ut det som var helt åpenbart… Keiseren var jo naken. Han hadde jo ikke klær på seg!</p>
+<p>Da begynte alle å le.</p>
+<p>Vel, alle utenom keiseren.</p>
+<p>Og snipp, snapp, snute, så var eventyret ute.</p>
+<p></p>
+<p><script async="" src="https://js.stripe.com/v3/buy-button.js">
+</script></p>
+<p><stripe-buy-button buy-button-id="buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1" publishable-key="pk_live_51QgguWLUx0JXaC0NTsJxeJym3Cl295dAAJjwLFpI34pj01BBsF5mRR71iWYQiTZqCuylXJtUpKeZ9v2F3N3Lcp9p00R3ZDcgKI"><br/>
+</stripe-buy-button></p>
+</div><p><br/></p><p><strong>Support me here --&gt;</strong></p><p>Patreon: <a href="https://www.patreon.com/laernorsknaa" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.patreon.com/laernorsknaa⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>Bildet: Illustration of "The Emperor's New Clothes." Vilhelm Pedersen (1820 - 1859) - Wikimedia Commons</p>
+</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:duration>00:07:38</itunes:duration>
+<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1743451016345-42d6291676e68.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>Easy Stories in Norwegian: Rødhette og ulven</title>
 <description><![CDATA[<p>Buy the book here: <a href=" https://buy.stripe.com/bIYdT7dCM1wLeVGdQQ?locale=en&amp;__embed_source=buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1" rel="ugc noopener noreferrer" target="_blank">⁠⁠ https://buy.stripe.com/bIYdT7dCM1wLeVGdQQ?locale=en&amp;__embed_source=buy_btn_1QhRZFLUx0JXaC0N4FoHRjI1⁠⁠</a></p><p><br/></p><p>More information about the book:<a href="https://laernorsknaa.com/shop-butikk/" rel="ugc noopener noreferrer" target="_blank">⁠⁠Shop – Lær norsk nå⁠</a></p><p>-------------------------------------------------------------------</p><p><br/></p><p>Email: Laernorsknaa@gmail.com</p><p>Transcript: <a href="https://laernorsknaa.com/easy-stories-in-norwegian-rodhette-og-ulven/" rel="noopener noreferer" target="_blank">https://laernorsknaa.com/easy-stories-in-norwegian-rodhette-og-ulven/</a></p><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -143,7 +222,7 @@
 <p>Bildet: Little Red Riding Hood by Jessie Willcox Smith, 1911. From the book A Child’s Book of Stories (link to page). Jessie Willcox Smith (1863 – 1935)</p>
 </div><p><br/></p><p><strong>Support me here --&gt;</strong></p><p>Patreon: <a href="https://www.patreon.com/laernorsknaa" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.patreon.com/laernorsknaa⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>Bildet: Little Red Riding Hood by Jessie Willcox Smith, 1911. From the book A Child's Book of Stories (link to page). Jessie Willcox Smith (1863 – 1935)</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:07:46</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1743259187717-6b50d8643842b.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -167,7 +246,7 @@
 <p>Instagram <em>Norwegian with Ilys</em>: <a href="https://www.instagram.com/norwegian.with.ilys/">⁠⁠⁠⁠https://www.instagram.com/norwegian.with.ilys/⁠⁠</a></p>
 </div>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:51</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1743070124545-0be668e9f74ef.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -191,7 +270,7 @@
 <p>Instagram <em>Norwegian with Ilys</em>: <a href="https://www.instagram.com/norwegian.with.ilys/">⁠⁠⁠https://www.instagram.com/norwegian.with.ilys/⁠⁠</a></p>
 </div><p><br/></p><p>If you want to contact me: Laernorsknaa@gmail.com</p><p><br/></p><p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:27</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1743069983652-a383fd411e5b4.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -215,7 +294,7 @@
 <p>Instagram <em>Norwegian with Ilys</em>: <a href="https://www.instagram.com/norwegian.with.ilys/">⁠⁠⁠https://www.instagram.com/norwegian.with.ilys/⁠⁠</a></p>
 </div><p><br/></p><p>If you want to contact me: Laernorsknaa@gmail.com</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:06:21</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1743069913857-f46df1728eec4.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -239,7 +318,7 @@
 <p>Instagram <em>Norwegian with Ilys</em>: <a href="https://www.instagram.com/norwegian.with.ilys/">⁠⁠⁠https://www.instagram.com/norwegian.with.ilys/⁠⁠</a></p>
 </div><p><br/></p><p>If you want to contact me: Laernorsknaa@gmail.com</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:15:01</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1743069822210-e2e82f273da75.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -263,7 +342,7 @@
 <p>Instagram <em>Norwegian with Ilys</em>: <a href="https://www.instagram.com/norwegian.with.ilys/">⁠⁠⁠https://www.instagram.com/norwegian.with.ilys/⁠⁠</a></p>
 </div><p><br/></p><p>If you want to contact me: Laernorsknaa@gmail.com</p><p><br/></p><p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:06:36</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1743069694409-551a38020c134.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -297,7 +376,7 @@
 <p><strong>Utestemmer (DNT)<br/>Alt du ikke vet<br/>ELLE Podkast<br/>Studietida<br/>Forklart (Aftenposten)</strong></p>
 </div><p><br/></p><p>If you want to contact me: Laernorsknaa@gmail.com</p><p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:08</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1743068601381-b07655ab45fa1.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -321,7 +400,7 @@
 <p>Instagram <em>Norwegian with Ilys</em>: <a href="https://www.instagram.com/norwegian.with.ilys/">⁠https://www.instagram.com/norwegian.with.ilys/⁠</a></p>
 </div><p>If you want to contact me: Laernorsknaa@gmail.com</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:09:45</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1742338450683-f7abe6eca67f2.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -417,7 +496,7 @@
 </stripe-buy-button></p>
 </div><p><br/></p><p><strong>Support me here --&gt;</strong></p><p>Patreon: <a href="https://www.patreon.com/laernorsknaa" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.patreon.com/laernorsknaa⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p><br/></p><p><br/></p><p>Bilde: Maskestenen på Moesgård museum. Gardar Rurak (2007). </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:17:17</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1740119837457-e08c9f3027c64.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -643,7 +722,7 @@
 <p>Illustrasjon 64: Jormungandr walhallaensis. Olmagon (2023). Lisens: Attribution-Share Alike 4.0 International.</p>
 </div>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:25:26</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1736970080901-893eff3c1d943.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -731,7 +810,7 @@
 <p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:09:36</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1728300664005-ea7bb9da9e69d.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -795,7 +874,7 @@
 <p>
 </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:08:37</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1728299800071-ed5c43e4535bf.jpg"/>
 <itunes:season>9</itunes:season>
@@ -889,7 +968,7 @@ Preikestolen in Forsand, Ryfylke, Norway, with Lysefjorden fjord in the backgrou
 <p>
 </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:16:44</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1728052135264-40ec93a4220a3.jpg"/>
 <itunes:season>8</itunes:season>
@@ -989,7 +1068,7 @@ Cover art: Bryggen, Bergen3, Foto: Nina Aldin Thune</p>
 
 Cover art: Bryggen, Bergen3, Foto: Nina Aldin Thune</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:18:50</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1728051757132-5014449c4ad7a.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1069,7 +1148,7 @@ Cover art: Andreas Rümpel, Lindesnes fyr, Norge. Wikimedia Commons. </p>
 
 Cover art: Andreas Rümpel, Lindesnes fyr, Norge. Wikimedia Commons. </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:41</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1728050980346-ef582934d31e.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1153,7 +1232,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:52</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1728050022479-e0a91f62e54ea.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1239,7 +1318,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 
 </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:46</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1728049124044-3ccff8945a46d.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1289,7 +1368,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:53</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1727702008738-fc262edde9ec5.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1369,7 +1448,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p><br/></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:22</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1726222679703-8ab629443c64e.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1443,7 +1522,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:17:56</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1724613705641-b4316e0743649.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1545,7 +1624,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p>Til og med navnet på Akershus kommer fra Oslo. Navnet på Akershus kommer fra Akershus festning i Oslo. Akershus festning er et slott i Oslo. Grunnen til dette var at Oslo før var en del av Akershus amt. I dag er derimot Oslo sitt eget fylke.</p>
 <p>Hva er det som er så spesielt med Akershus da? Vel, det er flere ting. Akershus har noen av de fineste jordbruksområdene i Norge. Akershus er også der du finner flyplassen til Oslo. Oslo lufthavn ligger i Gardemoen i Ullensaker kommuner som altså ligger i Akershus og ikke i Oslo. Men Akershus er kanskje mest av alt kjent for Eidsvoll og det som skjedde der. Kanskje dere husker Eidsvoll fra episode 7.4 om 1814 og norsk uavhengighet fra Danmark? La oss ta en kortversjon av den episoden.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:50</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1723461960903-39c131863c428.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1627,7 +1706,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠⁠⁠⁠</a></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:29</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1716026410842-ef978feaffad7.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1681,7 +1760,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p>The county of Møre og Romsdal is beautifully situated along Norway's west coast. It is located in the northwest and borders Trøndelag to the north and Innlandet and Vestland to the south. Møre og Romsdal is a region rich in nature, history, and culture. The county boasts dramatic fjords and majestic mountains that attract people from all over the world. Let's take a closer look at Møre og Romsdal.</p>
 <p>Møre og Romsdal is renowned for its stunning natural landscapes. Some highlights include the mighty Sunnmøre Alps and the majestic fjords such as Geirangerfjorden and Hjørundfjorden. These areas attract tourists and outdoor enthusiasts year-round. Visitors can enjoy spectacular mountain hikes or simply relax on a boat and admire the scenery along the fjords.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:17:23</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1711095177489-93b823de8ebcd.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1793,7 +1872,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p><strong>For more content to learn Norwegian --&gt;</strong></p>
 <p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A">⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠⁠⁠⁠</a></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:16:34</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1702310551165-5bca7a8ea6179.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1887,7 +1966,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A">⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠⁠⁠</a></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:05</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1702238332975-c776a8cac627d.jpg"/>
 <itunes:season>8</itunes:season>
@@ -1995,7 +2074,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p><strong>For more content to learn Norwegian --&gt;</strong></p>
 <p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A">⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠⁠⁠</a></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:25</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1702314595671-e61b8a78b17d8.jpg"/>
 <itunes:season>8</itunes:season>
@@ -2107,7 +2186,7 @@ Cover art: Geir Hval, Gaustatoppen med Brennstaultjønne i forgrunnen. Wikimedia
 <p><strong>For more content to learn Norwegian --&gt;</strong></p>
 <p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A">⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠⁠⁠</a></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:16:12</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1701632139420-e66d1ea105609.jpg"/>
 <itunes:season>8</itunes:season>
@@ -2153,7 +2232,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 
 </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:11</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1701630027160-a112b1b30e831.jpg"/>
 <itunes:season>8</itunes:season>
@@ -2189,7 +2268,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 <p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A">⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠</a><strong></strong></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:19:30</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1700152566455-c726788f1ac1e.jpg"/>
 <itunes:season>7</itunes:season>
@@ -2287,7 +2366,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 <p><strong>For more content to learn Norwegian --&gt;</strong></p>
 <p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A">⁠⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠⁠</a></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:19:09</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1699807935894-6c122d8a05c79.jpg"/>
 <itunes:season>7</itunes:season>
@@ -2401,7 +2480,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 <p>I 1945 ble det holdt valg i Norge. Arbeiderpartiet ble det største partiet i Stortingsavalget, altså parlamentsvalget. De fikk flertall alene og dannet en regjering med bare folk fra Arbeiderpartiet. Arbeiderpartiet, eller AP som det blir forkortet til, har siden vært det største partiet i Norge. Einar Gerhardsen ble statsminister for denne arbeiderpartiregjeringa. Han var statsminister i Norge i hele 16 år totalt i perioden 1945 til 1965. Han var en av de viktigste personene i å bygge Norge etter andre verdenskrig. </p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:51</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1699114450122-8f1933382131c.jpg"/>
 <itunes:season>7</itunes:season>
@@ -2479,7 +2558,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 <p>Men Tyskland ville ha det annerledes. Nazi-Tyskland, ledet av Adolf Hitler, planla et angrep på Danmark og Norge i 1939. Det var to hovedgrunner til at Tyskland ønsket å okkupere Norge. Den første var at Tyskland ønsket å ha marinebaser i Norge for tyske krigsskip. Fra Norge kunne skipene lettere reise ut mot Atlanterhavet og Nordsjøen. Dermed kunne de true Storbritannia lettere. Den andre grunnen var at Tyskland ønsket å ha kontroll over importen av svensk jernmalm til Tyskland. Jern er viktig i krig, og eksporten av svensk jernmalm gikk via norskekysten. </p>
 <p>Den 9. april 1940 angreip Tyskland Norge. Tyskerne angreip med fly og båt. Vidkun Quisling, lederen for det høyreradikale norske partiet Nasjonal Samling, prøvde å gjøre statskupp. Quisling sa på radioen at han ville bli den nye statsministeren i Norge og at Norge måtte legge ned våpnene. Tyskerne krevde at kongen og regjeringa skulle godta Quisling som ny statsminister i Norge.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:26:12</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1698174118158-57dc097e1e3.jpg"/>
 <itunes:season>7</itunes:season>
@@ -2535,7 +2614,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 <p><br/></p>
 <p>As we discussed in the previous episode, the union between Norway and Sweden emerged in the aftermath of a war in 1814. However, it wasn't a desired arrangement in Norway. It's important to note that this union was distinct from the earlier union with Denmark. Unlike the Danish union, Sweden didn't govern Norway directly. Instead, the majority of governing authority resided in Norway. This meant that Norway retained its own constitution, establishing its independent institutions like the Storting (parliament) and a dedicated government. It was a significant step towards self-determination for Norway.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:43</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1697032087573-f28b2474a012.jpg"/>
 <itunes:season>7</itunes:season>
@@ -2649,7 +2728,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 <p><br/></p>
 <p><strong>Norge var derfor ikke direkte med i første verdenskrig fra 1914 til 1918. Norge var nøytralt hele perioden. Men Norge ble likevel indirekte trukket inn i krigen. Storbritannia var den viktigste handelspartneren til Norge. Norge fortsatte å drive handel med Storbritannia, men mange norske båter ble senket av tyske ubåter. Dette gjorde at mange i Norge støttet Storbritannia framfor Tyskland i første verdenskrig. Men det var ikke veldig viktig for Norge hvem som vant første verdenskrig. Likevel ble Norge kalt for “den allierte nøytrale” siden Norge handlet så mye med Storbritannia. Dette gjorde at Norge fikk Svalbard i Svalbardtraktaten etter første verdenskrig.</strong></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:56</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1697881226939-f0fad52e2d312.jpg"/>
 <itunes:season>7</itunes:season>
@@ -2733,7 +2812,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 
 1814 er kanskje det viktigste årstallet i moderne norsk historie. I 1814 fikk Norge sin egen grunnlov, sin egen konge og sin selvstendighet. Men landet ble også tvunget inn i en ny union i 1814. I denne episoden skal vi snakke mer om 1814 og alt som skjedde i Norge da. Men først må vi snakke litt om hva som skjedde før 1814.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:16:33</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1696690223371-2a5b8b58d0cf3.jpg"/>
 <itunes:season>7</itunes:season>
@@ -2821,7 +2900,7 @@ In this season of the podcast, we will look at all the regions of Norway. We wil
 <p>Priests played a central role as intellectuals in Norway. They formed networks for the collection and dissemination of knowledge. Johan Ernst Gunnerus, the bishop of Trondheim, was particularly important. He was a skilled network builder for Norwegian science and gathered a wealth of historical and scientific knowledge in Norway. Priests also played a crucial role in spreading knowledge in agriculture. This is how the potato was introduced to Norway. Priests, who earned the nickname "potato priests," traveled around Norway and convinced farmers to plant potatoes from South America. Potatoes are highly resilient, and many in Norway had more to eat because of them.
 </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:16:04</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1693138530577-e96cac1f257a9.jpg"/>
 <itunes:season>7</itunes:season>
@@ -2927,7 +3006,7 @@ https://snl.no/trolldomsprosessene
 <p>The period between 1580 and 1630 saw numerous witch burnings, with over half of the documented trials taking place during this time. Researchers argue that religious conflicts, political and economic instability, climate deterioration, and repeated periods of famine laid the foundation for the witch hunts. The persecution of witches was theoretically supported by widespread beliefs in the existence of demons and witchcraft. Numerous books were written about witches and sorcery. It is estimated that around 60,000 people were executed for witchcraft in Europe and America, with 310 individuals being convicted and killed for witchcraft in Norway.
 </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:18:45</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1690146654044-71cf2f8341096.jpg"/>
 <itunes:season>7</itunes:season>
@@ -3167,7 +3246,7 @@ with both sides weakened. However, Sweden managed to take Skåne from Denmark
 Norway.
 </p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:21:43</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/12458523/12458523-1685370053801-b608b06900ee4.jpg"/>
 <itunes:season>7</itunes:season>
@@ -3185,7 +3264,7 @@ Norway.
 <enclosure length="8966819" type="audio/x-m4a" url="https://anchor.fm/s/4adac90c/podcast/play/66086857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-6%2F316494397-44100-2-2de36db925f82.m4a"/>
 <itunes:summary><p>Learn Norwegian with professional teacher at Norwegian Community: <a href="https://learn.norwegiancommunity.com/link/rNSsCh" rel="ugc noopener noreferrer" target="_blank">https://learn.norwegiancommunity.com/link/rNSsCh </a></p><p>Norwegian Community B1 level: <a href="https://learn.norwegiancommunity.com/link/rNSsCh?url=https%3A%2F%2Flearn.norwegiancommunity.com%2Fcourse%3Fcourseid%3Db1-komplett-kurs" rel="ugc noopener noreferrer" target="_blank">https://learn.norwegiancommunity.com/link/rNSsCh?url=https%3A%2F%2Flearn.norwegiancommunity.com%2Fcourse%3Fcourseid%3Db1-komplett-kurs </a></p><p><br/></p><p>Norwegian courses: <a href="https://skapago.teachable.com/?affcode=26285_sxv09qeu" rel="ugc noopener noreferrer" target="_blank">https://skapago.teachable.com/?affcode=26285_sxv09qeu</a></p><p><br/></p><p>Email: Laernorsknaa@gmail.com</p><p><strong>Support me here --&gt;</strong></p><p>Patreon: <a href="https://www.patreon.com/laernorsknaa" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠https://www.patreon.com/laernorsknaa⁠⁠⁠⁠</a></p><p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠</a></p><p><br/></p><p><strong>For more content to learn Norwegian --&gt;</strong></p><p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠</a><strong></strong></p><p><br/></p><p>The Sami, the indigenous people of Norway, has fought and is in some way still fighting to preserve their culture, and this has led to the creation of a Sami national day. February 6 is the national day for all Sami in Norway, Sweden, Finland, and the Kola-peninsula in Russia. It commemorates the first national meeting for the Sami in Norway in Trondheim in 1917, the first time a wide coalition of Sami in Norway gathered to discuss common Sami issues. This meeting was important in creating a common Sami movement. February 6 officially became the Sami national day in 1992.</p><p>Today, the national day of the Sami is first and foremost celebrated in Sápmi, the northern parts of the Scandinavian peninsula. It is celebrated by raising the Sami flag and serving traditional Sami food like <em>bidos</em>. In Manndalen in Northern Troms, far north in Norway, where I live, there was a Sami exhibition, Sami theatre, and Sami food at the Centre for northern peoples, a Sami cultural centre.</p><p>In the rest of Norway, February 6 is marked by raising the Norwegian flag in all public spaces. This is to congratulate the Sami people on their national day. However, the day is hardly celebrated in the rest of Norway, and February 6 is not a holiday. That means that everyone has to go to work or school, in contrast to May 17.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:09:14</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12458523/12458523-1678139170247-3371c41f5b959.jpg"/>
 <itunes:season>6</itunes:season>
@@ -3297,7 +3376,7 @@ Norway.
 <p>In Norway, we celebrate our Constitution Day on the 17th of May, and in Norwegian, it’s often only referred to as the 17th of may (17. mai). We celebrate our Constitution and our independence from 1814. This actually makes the Norwegian Constitution the second oldest in the world to still be in use, just behind the US Constitution. Also, the Norwegian constitution might have been the most democratic in the world when it was made in 1814. Therefore, May 17 is also a celebration of democracy in general.</p>
 <p>In addition to the constitution, we celebrate our independence this day. Until 1814, Norway was in a personal union with Denmark and had been so from the 15th century. This happened largely due to the Napoleonic Wars in Europe. Denmark was on the side of the French whereas the Swedes supported the coalition led by Great Britain and Russia. When France lost the war, the victors agreed to transfer Norway from Denmark to Sweden. This was very unpopular in Norway and independence was declared and a constitution made.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:15</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12458523/12458523-1678012033537-aa96c5c908692.jpg"/>
 <itunes:season>6</itunes:season>
@@ -3429,7 +3508,7 @@ Norway.
 <p>Å spare – To save (e.g. money)</p>
 </div><p><strong>Support me here --&gt;</strong></p><p>Patreon: <a href="https://www.patreon.com/laernorsknaa" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠https://www.patreon.com/laernorsknaa⁠⁠⁠⁠</a></p><p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠</a></p><p><br/></p><p><strong>For more content to learn Norwegian --&gt;</strong></p><p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠</a><strong></strong></p><p><br/></p><p>Russetida, the celebration of graduation from upper secondary school, happens from the first to 17th of May, the national day of Norway. The students will then take on red clothes, a red russe hat and hand out russe cards, which many children collect. These cards will often contain a funny picture and quote from the person who hands it out. The russetid is also celebrated with a lot of partying and alcohol, and the russ have their own festivals and parties.</p><p>But the russetid is not only about partying. It is also about having fun in other ways, for example the russeknuter, challenges. Doing a challenge gives you a prize that you can fasten to your russe hat. Some examples of challenges in 2022 were.</p><p>Many russ will make groups with a group name, group merchandise, group clothes, a group logo, and sometimes, even a buss, a so called russebuss. The buss is painted and styled and is used to go around the country to party. Some groups will even make their own song, a so-called russesang. These are very sexualized and is often about partying, drinking a lot of alcohol, and having sex with beautiful girls. Many have criticised them, but they are popular among the russ.</p><p>Many look forward to their russetid, but many has also criticized the tradition. The russetid used to be after the exams, but now, the exams are after the russetid. That means that many people will party for almost a month before their most important exams, leading to much worse grades than they would have gotten without partying so much.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:04</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12458523/12458523-1677791597860-dfe60e31f7f7.jpg"/>
 <itunes:season>6</itunes:season>
@@ -3569,7 +3648,7 @@ Norway.
 <p>Akevitt er et ord som kommer fra latinsk <em>aqua vitae</em> og betyr «livets vann». Akevitt blir laga av nøytral <strong>sprit</strong> som er tilsatt et <strong>krydder</strong>eller en <strong>urte</strong>. Det kan for eksempel være nøytral sprit med dill eller med koriander. I Norge må den nøytrale spriten lages fra potet, mens det i Sverige og Danmark ofte lages med korn. Alkoholprosenten må være minst 37,5 %, men den kan ikke være høyere enn 60 %. Som regel ligger alkoholnivået mellom 37,5 % og 43 %. I Norge har man drukket akevitt siden 1500-tallet. Da kunne man få tak i krydder fra Østen og potet fra Sør-Amerika. I dag er akevitt det mest kjente norske brennevinet.</p>
 <p>La oss nå gå over til å snakke om <strong>vinmonopolet</strong>. Vinmonopolet er et navn som betyr monopol på vin. Altså, de eneste som kan selge vin. Faktisk er vinmonopolet det eneste stedet i Norge hvor du kan kjøpe drikker med mer enn 4,7 % alkohol. I vanlige <strong>dagligvarebutikker</strong> får du bare kjøpt <strong>øl</strong> under 4,7 % alkohol. Om du har lyst på vin, brennevin eller øl med mer enn 4,7 % alkohol må du altså kjøpte det hos vinmonopolet. La oss se litt på hvorfor det ble slik.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:15:05</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12458523/12458523-1676808938030-d61f73f4032d9.jpg"/>
 <itunes:season>6</itunes:season>
@@ -3671,7 +3750,7 @@ Norway.
 <p>Before we end, I would like to recommend the courses offered by Skapago. They offer fun and interactive lessons based on reading, listening, grammar and exercises from beginner to intermediate. If you are interested, see the link in the description: <a href="https://skapago.teachable.com/a/aff_z0m0vwdf/external?affcode=26285_sxv09qeu" rel="noreferrer noopener" target="_blank">https://skapago.teachable.com/a/aff_z0m0vwdf/external?affcode=26285_sxv09qeu</a></p>
 </div><p><br/></p><p><strong>Support me here --&gt;</strong></p><p>Patreon: <a href="https://www.patreon.com/laernorsknaa" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠https://www.patreon.com/laernorsknaa⁠⁠⁠⁠</a></p><p>Donasjon (Paypal): <a href="https://www.paypal.com/donate/?hosted_button_id=KG22H9FPVG22N" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠Doner (paypal.com)⁠⁠⁠</a></p><p><br/></p><p><strong>For more content to learn Norwegian --&gt;</strong></p><p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A" rel="ugc noopener noreferrer" target="_blank">⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠</a><strong></strong></p><p><br/></p><p>Alle kulturer har sin <strong>folkemusikk</strong>. Folkemusikk er tradisjonell musikk fra et sted. I Norge er folkemusikk først dokumentert i litterære <strong>kilder</strong> fra norrøn tid. <strong>Det vil si</strong> at de første norske folke<strong>visene</strong> som vi vet har eksistert er over 1000 år gamle. Den eldste norske folkevisa som har overlevd og som blei <strong>nedtegna</strong> kommer fra 1695. Den er altså over 300 år gammel. Likevel var det ikke før på 1800-tallet at sangene og folkevisene blei systematisk samlet og nedskrevet.</p><p>Det finnes mange forskjellige former for folkemusikk. Det er altså ikke bare en sjanger av folkemusikk, men mange sjangre. For eksempel finnes det religiøse folkeviser, dansefolkeviser og bondeviser. Felles for alle sjangrene er at de tradisjonelt kommer fra norsk <strong>bondeliv</strong>. Norsk folkemusikk kommer altså fra norske bønder og det folk sang der i bondesamfunn. De vanligste instrumentene i norsk folkemusikk er hardingfele, altså en norsk variant av fiolin. Den eldste hardingfela som har overlevd kommer fra Hardanger på Vestlandet på 1600-tallet. Instrumentet ligner veldig på en fiolin, men har i tillegg til fire over<strong>strenger</strong>, fire til fem <strong>underliggende</strong>resonansstrenger. En streng er en tråd som man spiller på. Gitar er et annet instrument som også har strenger. På grunn av de ekstra strengene til hardingfela, så lager hardingfela litt annerledes lyd enn en fiolin. I tillegg til fela, så brukte man gjerne instrumentene langeleik, munnharpe og durspill.</p><p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:19:06</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12458523/12458523-1676808350551-c13083bab1d2d.jpg"/>
 <itunes:season>6</itunes:season>
@@ -3813,7 +3892,7 @@ Norway.
 <p><br/></p>
 <p>A troll is a sort of giant which lives in mountains and forests. They are often described as big, ugly, terrifying and mean, and they are often the bad guys in the stories, for instance in many of the Askeladden fairy tales. Today, the troll has become a popular Scandinavian souvenir and can be found as small figurines in all souvenir shops in Norway. A rise of the troll can also be seen in popular culture, both in films and series. Trolljegeren, or The Troll Hunter, is one such example.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:09</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12458523/12458523-1675524310853-f242634b32484.jpg"/>
 <itunes:season>6</itunes:season>
@@ -3982,7 +4061,7 @@ Norway.
 <p>Other large sports in Norway are gymnastics, track and field, swimming, cycling and various martial arts. Also, while Norway is mostly known for its achievements in winter sports, it also has some very good athletes in summer sports. Let’s look at the medals Norway won during the last Summer Olympics in Tokyo 2021.</p>
 <p>Norway won four golds, two silver, and two bronze, making us the 20th best nation in the world. Pretty good, considering that Norway is a small and cold country. Andreas Mol and Christian Sørum won gold in sand volleyball, Kristian Blummenfelt won gold in triatlon, Jakob Ingebrigtsen won the 1500m race, and maybe the most laudable achivments of them all: Karsten Warholm’s gold and world record in 400m hurdles. There are, as you can see, several really good athletes from Norway competing in summer sports as well.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:23</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1654470180174-c1784d41a1b35.jpg"/>
 <itunes:season>6</itunes:season>
@@ -4092,7 +4171,7 @@ Norway.
 <p>Norway is first and foremost known for its winter and snow. The geographical placement of the country makes it ideal for winter-sports. It is therefore no surprise that the country has done really well in the Winter Olympics, being the country with the most medals despite only having a population of five million people. In this episode, we will take a closer look at winter-sports in Norway.</p>
 <p>Firstly, I have to mention cross-country skiing. This might be unknown for many, as most people think of going down a hill when hearing “skiing”. However, in Norway, cross-country skiing is probably more popular. It is simply going up the hill with skis instead of going down the hill. Cross-country skiing is more about doing sports or enjoying nature, and during Easter, it is very normal for Norwegian families to travel to the mountains to enjoy some skiing. But, cross-country skiing is much harder than it looks. Technique and balance are both very important and it takes a lot of practice before being anywhere near mastering it. You can go cross-country skiing a lot of places in Norway and it is completely free to use the trails. For instance, Oslo and Trondheim both have really nice trails close by.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:40</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1650288906785-68e92a09dd48d.jpg"/>
 <itunes:season>6</itunes:season>
@@ -4197,7 +4276,7 @@ Norway.
 <p>Another great Norwegian saying that we use is “there is no bad weather, only bad clothes”. In Norway, we have to deal with quite a lot of harsh weather conditions. It can be very cold, wet and windy. However, this does not stop us from going out in nature. You simply have to put on enough clothes. And always bring some extra clothes when going out. Even though it might be sunny and warm when you start going, it tends to be considerably colder on top of the mountain. Therefore, always bring clothes that you can put on in case the weather changes or if it is cold at the summit.</p>
 <p>Hiking is also about having a good time, so bring some food and drinks. It is very normal to bring some coffee to enjoy at the top. Or how about the famous “hiking chocolate”. Kvikklunsj is a Norwegian chocolate that we often bring with us when hiking.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:17:12</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1645651573656-90eb74961fcdd.jpg"/>
 <itunes:season>6</itunes:season>
@@ -4367,7 +4446,7 @@ Norway.
 <p>Many things considered impolite or rude in other cultures, are normal in Norway. One of the reasons for this might be the lack of hierarchical thinking in Norway. We generally consider everyone to be equal and address people in such a way too. You should not use titles when addressing people in Norway. “Mr.” or “Mrs.” are not used often nor are professional titles such as “professor” or “doctor”. We use the first name for people, even when addressing teachers or professors. Be aware that Norwegians also tend to do this in English, so don’t be offended if a Norwegian don’t use your preferred title. Also, you should generally not use titles when addressing people, even though they are your boss.</p>
 <p>Let’s go to some common questions in all countries: Do you haggle in Norway? And should you tip at cafes and restaurants? The answer to the prior is no, you generally don’t haggle in Norway. It is very uncommon, although you could try some places. However, be aware that you should be very polite when haggling and never overdo it or ask for too big discounts. It is very rude to haggle aggressively in Norway, so avoid this.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:43</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1641403283454-f236a679798b3.jpg"/>
 <itunes:season>6</itunes:season>
@@ -4411,7 +4490,7 @@ Norway.
 <p>To make a really good pork belly, it is important that the temperature is just right and then you cook it for about two to three hours. It is important to turn the temperature up towards the end as you want the rind to become crispy. Pork belly is usually served with potatoes, sour cabbage, medister cakes and prunes or apples.</p>
 <p>On the western coast of Norway, Pinnekjøtt is more common. About 74% in the western part of the country eats Pinnekjøtt on Christmas Eve, compared to only 14% in the east. Pinnekjøtt is dried, salted and smoked mutton which is put in water the day before cooking it. It is usually damped rather than boiled. It is normally served with mashed rutabaga and potatoes. It is really old and has probably been eaten as a Christmas dish since the 16th century.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:59</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1640300286756-aaf3d3b96adf7.jpg"/>
 <itunes:season>5</itunes:season>
@@ -4457,7 +4536,7 @@ Norway.
 <p>It was first between 1986 and 1994 that taco would become a common dish in Norway. In 1986, Mexico was the host of the World Cup in football (or soccer), and in 1994, Norway played a world cup game against Mexico. These events were both important for popularizing tacos in Norway, and today it has become an integral part of Norwegian food culture. 13 % of all Norwegians under the age of 40 eat tacos every single Friday. This phenomenon has created a new word in the Norwegian language: Friday tacos or “fredagstaco” in Norwegian. 84 % of all Norwegians under the age of 40 eat tacos at least once a month, clearly illustrating the importance of the dish in Norway.</p>
 <p>Another dish that has enjoyed great success in Norway is the kebab. Kebab is a dish that consists of salad and special kebab-meat which are wrapped in a wrap or a pita. It comes from Turkey and is popular all around the Middle East. It came to Norway via immigrants from the Middle East. The first store selling kebabs was founded in Oslo in 1957, but it did not enjoy much success. Frash Asmaro from northern Iraq is generally considered as the father of the kebab in Norway. He set up a kebab-store in Oslo in 1983. At this time, the kebab was already quite popular in continental Europe, but we were a bit more sceptic here up north. Nonetheless, the kebab became gradually more popular. Today, kebab stores can be seen all around the country, even in small towns. Actually, there is a lot of local patriotism linked to the question about where the best kebab in Norway can be found, illustrating how integrated it has become in Norwegian food culture.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:15</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12458523/12458523-1638727162412-9831ab04442f3.jpg"/>
 <itunes:season>5</itunes:season>
@@ -4583,7 +4662,7 @@ Norway.
 <p>The Sami people have traditionally lived in close contact with the nature around them, and this is evident in their food culture. Hunting and fishing have been important elements in Sami food. Moreover, the Sami people had to adapt their food to the season and to which food items were available at the time. They also had to create methods for food preservation such as salting and drying the meat, seeing that there was no safe way of storing fresh meat before modern freezing techniques. A very peculiar Sami dish is laŋasguolli which is fish that has been fermented in the stomach of a sheep.</p>
 <p>But reindeer meat is by far the most important ingredient in traditional Sami food. The most famous dish is called bidos and consists of reindeer meat, potatoes, vegetables and meat broth. It is often served in Sami weddings and on important holidays. It is quite old and has been developed and changed during the centuries. For instance, it has not always been made with potatoes. Before potatoes were popularized in Norway in the latter part of the 18th century, it was usually served with bread. This is still possible today. Although it is considered to be the quintessential Sami dish, it is not really that unique. It is very similar to other Norwegian meat broths. For example, sodd, a central Norwegian dish, is made with meat broth and moose meat or beef. It is usually served with potatoes and carrots. Bidos and sodd are very similar, the most striking difference being the choice of meat as bidos is always made with reindeer meat.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:44</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1637355961059-468438732c3f6.jpg"/>
 <itunes:season>5</itunes:season>
@@ -4707,7 +4786,7 @@ Norway.
 <p>In this episode, we have looked at some traditional Norwegian desserts. The first one is called “Tilslørte bondepiker” which translates to “veiled peasant girls”. It is usually served in a glass and consists of mashed apples mixed with sugar. A layer of crumbs and sugar is put on this. To top the dessert, you add some whipped cream. The legend has it that it was Ivar Aasen who discovered the dessert. Ivar Aasen is the founder of Nynorsk, the written standard, and he lived during the 19thcentury. According to the legend, he was in love with a peasant girl who made this dessert. He tried several times to propose to her, but she declined all his approaches. Finally one day, she offered him to taste her sweets. Aasen being an eager man thought she was offering herself to him. Unfortunately for Aasen, she was talking about the dessert she was making. Immensely disappointed, Aasen called the dessert “tilslørte bondepiker” or “veiled peasant girls”. The story is almost certainly only a legend and has probably never happened.</p>
 <p>The next dessert we shall examine is gomme. This is a Norwegian dessert made with casein separated from milk. It exists in several versions with geographical variations. It used to be eaten during Christmas in Norway, but this is less common today. However, gomme is still eaten all around the country, especially in certain parts of northern Norway, Trøndelag, and in the south and western parts of the country.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:32</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1636547687808-cc96e81ec2417.jpg"/>
 <itunes:season>5</itunes:season>
@@ -4753,7 +4832,7 @@ Norway.
 <p>Det er ikke bare epler som blir produsert i Hardanger; de produserer også en kjent eplesider. Eplesider fra Hardanger har blitt produsert siden 1800-tallet. Det er altså lange tradisjoner for å lage eplesider i Hardanger. Det finnes forskjellige typer eplesider, og det er mulig å lage <strong>ganske</strong> forskjellige smaker. For eksempel vil eplene variere i sødme, man kan variere alkoholinnholdet og <strong>gjæringsprosessen</strong>. Alle disse prosessene vil ha <strong>innvirkning</strong> på smaken. De vil påvirke hvordan sideren smaker.</p>
 <p>2021 var et <strong>uvanlig</strong> bra år for epledyrking i Hardanger. Det blei høsta 1,795,000 epler i Hardanger i år. Gjennomsnittet ligger på ca. 1,000,000. 2021 er et rekordbra år for epler i Hardanger. Det er helt <strong>annerledes</strong> i år sammenligna med i fjor. 2020 var et veldig dårlig år for epler i Hardanger, og det blei bare høsta 650,000 epler. Det er nesten tre ganger færre enn i 2021. Eplebønder sier at de må regne med et dårlig år for epler hvert femte år. 2015 var for eksempel også et dårlig år for epler. Temperaturen på våren og sommeren og <strong>nedbør</strong> avgjør om det blir et bra eller dårlig år for epler. 2021 har vært et veldig bra år for epler.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:08:10</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1636106929776-5ebaa8d692981.jpg"/>
 <itunes:season>5</itunes:season>
@@ -4833,7 +4912,7 @@ Norway.
 <p>I Norge bruker vi melk til <strong>matlaging</strong>, vi drikker den og vi bruker den til å bake med. Det er veldig vanlig å ha melk på <strong>frokostblandinga</strong> si i Norge, eller å drikke et glass med melk med <strong>brødskivene</strong>. Jeg husker at det var vanlig <strong>å få utdelt</strong> skolemelk på både barneskolen og ungdomsskolen. Barneskolen er fra man er 6 til 12år og ungdomsskolen er fra 13 til 15år. Denne ordningen fungerte slik at vi kunne <strong>melde oss på </strong>for å få melk på skolen. Da fikk man en melkekartong på ca. 2,5dl hver eneste dag ved lunsjen. I Norge er det generelt et stort fokus på at melk er <strong>sunt</strong>. Proteininnholdet i melk er av veldig høy kvalitet. I tillegg er det mange bra vitaminer i melk som vitamin D, E og K. I tillegg er det mye kalsium i melk som er viktig for beina og tennene. Barn har <strong>skjelett</strong> og bein som vokser mye og <strong>endrer seg</strong>. Da er det viktig at de får nok kalsium. Jeg tror det er grunnen til at vi fikk subsidiert melk på skolen.</p>
 <p>Jeg tror en av grunnene til at vi har et så positivt syn på melk i Norge er at <strong>mesteparten av befolkningen </strong>tåler laktose. Laktose er melkesukker og det er ikke alle som klarer å <strong>fordøye</strong> dette. Dersom man ikke klarer å fordøye laktose sier man at man har laktoseintoleranse. Alle <strong>spedbarn</strong> <strong>opp til en viss alder</strong> <strong>tåler </strong>laktose. Det er først når man blir eldre at mange mister evnen til <strong>å bryte ned</strong> laktose. Laktoseintoleranse er veldig vanlig i verden. Faktisk er det bare <strong>mindretallet</strong> av <strong>voksne</strong> mennesker som tåler laktose. I Asia er 80-100% laktoseintolerante. I Afrika sør for Sahara er 85-100% laktoseintolerante. Blant søreuropeere er dette 60-85%. Blant hvite amerikanere er det bare 10-25% som er laktoseintolerante. Det er likevel nordeuropeere som tåler laktose best. I Nord-Europa er det bare 5-15% som har laktoseintoleranse. Norge er et av landene i verden med høyest toleranse for laktose. Blant den norske befolkningen er det bare 2-3% som er laktoseintolerante. Det betyr at 97% av voksne nordmenn tåler laktose. Det er veldig uvanlig <strong>sammenligna med</strong> resten av verden.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:17</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1634901533033-09d8344a08c0b.jpg"/>
 <itunes:season>5</itunes:season>
@@ -4959,7 +5038,7 @@ Norway.
 <p>Torsk er en veldig viktig del av norsk matkultur. Mange nordmenn spiser torsk <strong>hver eneste</strong> uke. <strong>Lettsalta</strong> torsk er for eksempel en veldig vanlig matrett. Det er <strong>fersk</strong> torsk som man salter og <strong>koker</strong>. Det er vanlig å ha <strong>smelta</strong> smør og poteter ved siden. De viktigste stedene for torskefiske i Norge er Lofoten og Vesterålen i Nord-Norge og Møre på Nord-Vestlandet. Torsk er en hvit fisk med en ganske mild <strong>smak</strong>. Det er kanskje <strong>grunnen</strong> til at den er så populær. I tillegg er den veldig <strong>sunn</strong>med masse proteiner.</p>
 <p>Torsk er ikke bare viktig for Norge nå; den har også vært viktig for Norge i historien. Torsk har en viktig historisk <strong>betydning</strong> i Norge. Sannsynligvis har mennesker i Norge fiska torsk så lenge det har vært mennesker her. Torskefiske er et eget begrep i Norge. Dette gjaldt spesielt for noen steder i Nord-Norge. Da ville mennene på gårdene gå ut i <strong>fiskebåtene</strong> og fiske etter torsk. Kvinnene og barna var igjen og gjorde gårdsarbeidet imens mennene var borte for å fiske. For mange var torskefiske en viktig <strong>næringskilde</strong>.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:25</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1633640998787-cc082e2f572cc.jpg"/>
 <itunes:season>5</itunes:season>
@@ -5105,7 +5184,7 @@ Norway.
 <p>Fårikål består av tre ord: «Får», «i» og «<strong>kål</strong>». Det betyr <strong>rett og slett</strong> sau i kål. For å lage fårikål tar man <strong>sauekjøtt</strong> og <strong>koker</strong> det sammen med kål. I tillegg er det viktig å <strong>krydre</strong> det med masse pepper. Den høres simpel ut, og det er den også. Det tar litt tid å koke, men ellers er det veldig lett å lage. Det er vanlig å ha potet ved siden av.</p>
 <p>Hvorfor snakker jeg da om denne simple retten? Vel, den er <strong>kåra til</strong> Norges <strong>nasjonalrett</strong>av det norske folk først i 1972 på et radioprogram og seinere også i 2014. Fårikål har altså blitt kåra to ganger til Norges nasjonalrett. Det er altså en veldig norsk rett. Men er den gammel? Å koke grønnsaker sammen med sauekjøtt er nok veldig gammel. Men selve retten fårikål hører vi først om på 1800-tallet. Første gang fårikål <strong>dukker opp i</strong> ei kokebok er i 1835.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:36</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1633020662141-4d12ea3010b0e.jpg"/>
 <itunes:season>5</itunes:season>
@@ -5229,7 +5308,7 @@ Norway.
 <p>Det finnes ulike typer brunost. Faktisk finnes det en <strong>flytende</strong> brunosttype som heter prim. Prim har over 30% vann. Det gjør at det er mulig å smøre prim på skiva, akkurat som peanøttsmør. Ekte brunost har derimot mye mindre vann. Det gjør at de er <strong>faste</strong>. I Norge bruker vi <strong>ostehøvel</strong> til å skjære brunosten i skiver. I tillegg til vannmengden er det forskjell på hvor mye <strong>fløte</strong>brunosten har i seg. Fløte er veldig fettholdig melk. Fettinnholdet kan variere fra 7% til 28% i brunosten. Det kan altså være veldig mye <strong>fett</strong> i brunost.</p>
 <p>Brunost har veldig lange tradisjoner. De første kildene som nevner brunost er fra 1400-tallet i Norge. Denne brunosten hadde mye mindre fett i seg enn dagens moderne brunost. Denne brunosten blei laga på bondegårder rundt omkring i Norge. Den moderne brunosten blei funnet opp på 1800-tallet. Anne Haav laga oppskrifta på den første moderne brunosten på 1800-tallet. Hun bodde på en gård i Gudbrandsdalen på Østlandet. I 1908 begynte et <strong>meieri</strong> å masseprodusere brunosten til Anne Haav. Slik begynte den moderne brunosten å spre seg i hele Norge.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:35</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1632347256281-08b4350fe831.jpg"/>
 <itunes:season>5</itunes:season>
@@ -5371,7 +5450,7 @@ Norway.
 <p>Melk blei for det meste brukt til å lage <strong>ost</strong> og <strong>smør</strong>. Fersk melk holder seg ikke så lenge og det var ikke så vanlig å drikke mye fersk melk før på 1900-tallet. Ost har likevel lange tradisjoner i Norge.</p>
 <p>Kornslaga <strong>bygg</strong> og <strong>havre</strong> var vanligst i Norge før. Mange steder i Norge er det vanskelig å <strong>dyrke</strong> korn. For eksempel kan det være ganske kaldt på våren mange steder i Norge. Det kan drepe mye av kornet. Andre steder regner det veldig mye. På store deler av Vestlandet er det for mye regn for mange typer korn. Da poteten kom på 1700-tallet til Norge var den derfor viktig for norsk matkultur. Poteten gjorde at folk i Norge fikk det bedre. Potet har blitt en veldig viktig del av norsk matkultur.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:17</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1631742830067-beb64e9776242.jpg"/>
 <itunes:season>5</itunes:season>
@@ -5509,7 +5588,7 @@ Norway.
 <p>Norge var i en union med Danmark da reformasjonen <strong>brøt ut</strong> på 1500-tallet. Norge var altså under Danmark i denne perioden. Danmark hadde tette bånd til Tyskland. Danmark ligger nærmer Tyskland, og dette gjorde at reformasjonen spredde seg raskt til Danmark. Christian 3., konge av Danmark, <strong>erklærte</strong> i 1536 at statsreligionen i Danmark-Norge skulle være Lutheranismen. Dette førte til at lutherske biskoper erstatta de katolske biskopene; klostrene blei lagt ned og stengt; kirkas <strong>eiendommer</strong> blei gitt til kongen; og Christian 3. blei offisielt kirkas øverste leder. Det var altså mange <strong>fordeler</strong> for Christian 3. å <strong>innføre</strong>lutheranismen i Danmark-Norge.</p>
 <p>I Norge var kirka den største organisasjonen på 1500-tallet. Den katolske kirka var også den viktigste politiske institusjonen i Norge. Erkebiskopen av Nidaros, den viktigste personen i Norge, var leder av det norske <strong>riksrådet</strong>. Det norske riksrådet styrte Norge sammen med kongen. Det var altså viktig for Norge sin <strong>stemme</strong> i unionen med Danmark.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:13</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1631132816722-ba7fecf1e89a9.jpg"/>
 <itunes:season>4</itunes:season>
@@ -5757,7 +5836,7 @@ Norway.
 <p><strong>Utviklinga</strong> av Hansaforbundet var <strong>gradvis</strong>. Det utvikla seg først på 1100-tallet med samarbeidende nord-tyske <strong>kjøpmenn</strong>. Dette utvikla seg til et forbund av byer, særlig i Nord-Tyskland. I 1367 var forbundet fult utvikla. Da var det 70 byer på møte i Köln.</p>
 <p>Hansaforbundet var sterkest fra 1300 til midten av 1400-tallet. Lübeck var den ledende byen i hele denne perioden da forbundet var på sitt <strong>mektigste</strong>. Hansaforbundet hadde i denne perioden utenlandske kontorer i Novgorod, London, Brugge og, viktigst for oss, i Bergen. Hansaforbundet begynte å handle med Bergen i 1278. De åpna ett eget <strong>kontor</strong> i Bergen i 1350-årene. <strong>Tørrfisk</strong> var den viktigste <strong>handelsvaren</strong> som de tyske kjøpmennene kjøpte i Norge. De kjøpte tørrfisk i Bergen og solgte det videre til land som Frankrike og Spania. Tørrfisk er fisk som man <strong>tørker</strong> i et kaldt klima. I Norge er spesielt Lofoten i Nord-Norge kjent for tørrfiskproduksjon. I middelalderen kom fisken fra Nord-Norge til Bergen. Hanseatiske kjøpmenn kjøpte deretter tørrfisken.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:45</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12458523/12458523-1630581672749-01e51a7c49f4e.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -5869,7 +5948,7 @@ Norway.
 <p>Vi er ikke helt <strong>sikre</strong> på hvor mange som døde av pesten i Norge, men sannsynligvis var det minst 30% av befolkningen. Det var altså mange som døde av pesten i Norge. Dette var likevel ikke <strong>det eneste</strong> utbruddet av pest i Norge. Pesten kom tilbake flere ganger. Vi kjenner til mer enn 20 pestangrep i Norge fra 1349 helt til 1654.</p>
 <p>Pesten førte til mye død og <strong>elendighet</strong>. Likevel var det ikke bare negativt. De som <strong>overlevde</strong> pesten, fikk det bedre i Norge. Fram til 1349 vokste befolkningen i Norge. Det blei flere og flere folk i landet. Dette gjorde at folk måtte bruke dårligere og dårligere jordbruksland for å mate alle. Mange i Norge var derfor fattige. Før svartedauden levde det kanskje så mange som 500,000 i Norge. I 1500 var folketallet i Norge bare 200,000. Færre folk betydde at det var mer land til folk. Folk kunne forlate de dårlige gårdene for å flytte til de bedre gårdene med bedre jord. Mange blei derfor rikere av pesten. Norge <strong>nådde</strong> faktisk ikke 500,000 innbyggere før i 1700. Det tok altså lang tid før folketallet kom tilbake til det det hadde vært før pesten.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:15</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1629838530520-e57ff32723257.jpg"/>
 <itunes:season>4</itunes:season>
@@ -5969,7 +6048,7 @@ Norway.
 <p>Margrete I, dronning av Danmark, var <strong>hovedpersonen</strong> bak Kalmarunionen. Hun var gift med kongen av Norge Håkon VI Magnusson. Da Håkon døde i 1380 blei sønnen til Håkon og Margrete <strong>utropt</strong> til konge i Norge. Problemet var bare at han ikke var gammel nok til å være konge ennå. Det gjorde at Margrete <strong>herska</strong>i Norge til sønnen blei gammel nok. Men så døde sønnen også og Margrete hadde ingen mannlige <strong>slektninger</strong>. Likevel klarte Margrete å fortsette å styre i Norge og i Danmark. Hun <strong>utnevnte</strong> søsterdattersønnen sin Eirik til <strong>tronarving</strong>. Eirik var altså sønnen til datteren til søsteren til Margrete. Det viser litt hvor komplisert det er.</p>
 <p>I tillegg var Danmark og Norge i krig mot Sverige. Krigen varte helt til 1396. I 1396 blei Eirik <strong>hylla</strong> til konge av Sverige. Eirik skulle altså bli konge i Danmark, Sverige og Norge, og slik samle Skandinavia. I tillegg til disse tre rikene var også Finland en del av Sverige på denne tida. Store deler av Norden blei altså samla ved Kalmar unionen. Selv om det var Eirik som blei krona som konge, så var det dronning Margrete som var <strong>hovedarkitekten</strong> bak unionen. Det var hun som var hovedpersonen i samlingen av Skandinavia. I 1397 blei Kalmarunionen offisielt inngått.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:09:47</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1629322814289-e2e1224acb9b8.jpg"/>
 <itunes:season>4</itunes:season>
@@ -6087,7 +6166,7 @@ Norway.
 <p>Under storhetstida blei et av de mest unike middelalderlovverkene i Europa laga. I 1274 blei Magnus Lagabøters landslov ei samla <strong>lovbok</strong> for hele Norge. Før denne landsloven hadde det vært fire forskjellig hovedlovbøker i landet som blei brukt i ulike deler av Norge. Nå hadde hele Norge ei felles lovbok. Lovboka er unik ettersom det er en av de eneste lovbøkene i Europa som <strong>dekka</strong>et helt land. Det vanlige var å ha flere lovbøker <strong>innad</strong> i et land i denne perioden. Norge var dermed et av de første landene i Europa som fikk en felles lovbok for hele landet.</p>
 <p>Hvorfor gikk Norge inn i en storhetstid i akkurat denne perioden? En grunn kan være at både Sverige og Danmark hadde problemer med <strong>borgerkrig</strong> i denne perioden. Begge land <strong>sleit med</strong> borgerkrig på 1200-tallet og første del av 1300-tallet. Norge var derimot <strong>heldig</strong> som hadde konger som <strong>regjerte</strong>lenge i denne perioden. Dette førte til stabilitet i Norge. I tillegg <strong>slapp</strong>Norge innblanding fra Sverige eller Danmark som hadde sine egne problemer. I 1319 stabiliserte ting seg i Sverige og da fikk Norge og Sverige en felles konge. Dette var slutten på storhetstida og begynnelsen på en ny periode i norsk historie: unionstid.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:56</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1628675247699-7b67ea678fecd.jpg"/>
 <itunes:season>4</itunes:season>
@@ -6227,7 +6306,7 @@ Norway.
 <p>Borgerkrigen starta igjen i 1177 da Sverre Sigurdsson kom til Norge fra Færøyene. Sverre var lederen for birkebeinerne som kjempa for å ta makten i Norge. De drepte Magnus Erlingsson i 1184 og gjorde Sverre til konge. Likevel fortsatte krigen. Sverre og birkebeinerne kjempa mot ei gruppe som har fått navnet baglerne. Baglerne blei først organisert i 1196 av biskopen i Oslo. Store deler av kirka <strong>støtta</strong>baglerne. Baglerne kjempa mot Sverre og birkebeinerne. <strong>Kort oppsummert</strong>kjempa birkebeinerne og Sverre for en sterkere kongemakt mens baglerne kjempa for kirka og erkebiskopens økonomiske interesser. Den andre delen av borgerkrigstida slutta i 1202 da Sverre døde.</p>
 <p>Etter 1202 nærma baglerne og birkebeinerne seg i større grad. Baglerne og birkebeinerne kom nærmere hverandre etter Sverre døde i 1202. For eksempel <strong>blei de enige om</strong> flere <strong>avtaler</strong> med hverandre. I 1217 samla birkebeinerne og baglerne seg under Håkon Håkonsson. Han var konge av Norge fra 1217 til 1263, altså i hele 46år.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:33</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1627596780434-24270c941e9d7.jpg"/>
 <itunes:season>4</itunes:season>
@@ -6385,7 +6464,7 @@ Norway.
 <p>Hvorfor ønska en norsk konge å <strong>innføre</strong> kristendommen i Norge? På 1000-tallet var det <strong>fremdeles</strong> mange i Norge som trodde på de norrøne gudene. Den norrøne religionen levde fremdeles. En grunn til at de norske kongene ønska å kristne Norge var at kristendommen kunne brukes til å sentralisere <strong>makta</strong> rundt kongen. Kristendommen kunne brukes av kongen til å øke makta si. For eksempel kunne kongen bruke kristendommen til å <strong>minke</strong> den religiøse rollen til de lokale <strong>høvdingene</strong>. De lokale høvdingene ville da få mindre makt. I tillegg kunne kristendommen være en måte å <strong>knytte</strong> Norge nærmere sammen.</p>
 <p>Kristninga av Norge var altså en viktig del av samlinga av Norge til én politisk enhet. Kongen kom til å <strong>samarbeide</strong> tett med kirka. Kirka og kongen i Norge kom til å samarbeide slik at kongen beskytta kirka, mens kirka <strong>legitimerte</strong> kongens makt.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:27</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1627559806144-08babb04df8b4.jpg"/>
 <itunes:season>4</itunes:season>
@@ -6563,7 +6642,7 @@ Norway.
 <p>Hvorfor dro folk på vikingferder? En grunn var at oppdagelser og <strong>farlige</strong> <strong>ferder</strong>ga <strong>ære</strong> i det norrøne samfunnet. Det var <strong>ærefult</strong> å reise på vikingferder. Ære var noe av <strong>det aller viktigste</strong> i vikingsamfunnet. I tillegg ønska vikingene å <strong>skaffe seg</strong> <strong>rikdommer</strong>. <strong>Jakten</strong> på ære og rikdom var altså viktig for vikingferdene.</p>
 <p>Norske vikinger fokuserte mest på Nord-England, Skottland, Irland og Nord-Frankrike. Svenske vikinger reiste mest i Russland og Øst-Europa. Danske vikinger var mye involvert i England, Nord-Frankrike og Nord-Tyskland.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:16:21</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1626950174898-4fcbe9dc08602.jpg"/>
 <itunes:season>4</itunes:season>
@@ -6725,7 +6804,7 @@ Norway.
 <p>Det som er litt interessant er at nasjonalforsamlinga i Norge er oppkalt etter denne vikinginstitusjonen. Vårt parlament heter Stortinget. Dette ordet, tinget, <strong>stammer fra</strong> vikingtida.</p>
 <p>Samfunnet i vikingtida var stort sett fragmentert. Det betyr at det ikke fantes en sterk sentralmakt i Norge i vikingtida. Det fantes ikke en konge med stor makt i hele Norge i vikingtida. I vikingsamfunnet dominerte <strong>høvdinger</strong> og <strong>stammer</strong>. Høvdinger var lokale ledere. Makten var altså spredd mye mer utover i vikingtida. Utover i vikingtida blei sentralmakta sterkere. Sentralmakta var sterkere i 1050 enn i 800.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:15:48</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1626269911789-b84f4af320fe2.jpg"/>
 <itunes:season>4</itunes:season>
@@ -6891,7 +6970,7 @@ Norway.
 <p>La oss gå fram til 1030. Dette er et veldig viktig årstall i norsk historie. 1030 var veldig viktig for samlingen av Norge til ett rike. I 1030 skjedde slaget ved Stiklestad, et sted <strong>i nærheten av</strong> Trondheim. Olav Haraldsson, konge av Norge, <strong>kjempa</strong> dette slaget for å kristne Norge. Han kjempa imot høvdinger som ville <strong>beholde</strong> den norrøne religionen <strong>i stedet for</strong>kristendommen. Olav Haraldsson blei drept i slaget ved Stiklestad. Han blei <strong>utropt</strong>til <strong>helgen</strong> etterpå. Han blei Norges nasjonalhelgen, Olav den hellige. Han blei et viktig symbol for de kristne i Norge. Etter 1030 spredde kristendommen seg til Norge; Norge blei et kristent katolsk land som resten av Europa.</p>
 <p>Vikingtida i Norge slutter i 1030 med kristninga av Norge. Etter det stopper vikingtida. La oss derfor gå fram til 1397. I 1397 går Norge inn i Kalmarunionen sammen med Danmark og Sverige. Det danske <strong>kongehuset</strong> <strong>herska</strong> da over hele Skandinavia. I denne perioden var Danmark det klart største og rikeste landet i Skandinavia. Det beste <strong>jordbruket</strong> var i Danmark. Sverige gikk ut av Kalmarunionen i 1520, men det gjorde ikke Norge. Norge skulle <strong>forbli</strong> i union med Danmark helt til 1814. Helt til 1814 var Norge styrt fra Danmark.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:20:31</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1625656774902-1f189028b6689.jpg"/>
 <itunes:season>4</itunes:season>
@@ -7035,7 +7114,7 @@ Norway.
 <p><strong>I tillegg til</strong> Sametinget ligger NRK Sápmi i Karasjok. NRK Sápmi er NRK på nordsamisk. For eksempel sender de nyheter på nordsamisk som <strong>handler om </strong>samiske <strong>saker</strong>.</p>
 <p>Kautokeino blir ofte kalt for det kulturelle <strong>hovedsenteret</strong> i de nordsamiske områdene. Det er ett av de viktigste kulturelle sentrene i Sameland for samisk kultur og språk. For eksempel har de en egen samisk filmfestival. I tillegg blir det arrangert reinkappkjøring, altså <strong>kappløp</strong> med reinsdyr.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:00</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1625071980590-3001d3f7db4e5.jpg"/>
 <itunes:season>3</itunes:season>
@@ -7139,7 +7218,7 @@ Norway.
 <p>Av kultur er det mye å se i Gudbrandsdalen. Det er kanskje naturlig siden det er et så stort område. For eksempel kan man <strong>ta turen innom</strong> Lillehammer i sørdelen av dalen. Lillehammer er en by med ca. 30,000 innbyggere som er ganske stort i norsk standard. Lillehammer er kanskje mest kjent for å ha arrangert vinter OL i 1994. Det er en koselig by. Ellers er det mange gamle middelaldergårder i Gudbrandsdalen. Dette er historiske gårder som gjerne er bygga i gammel <strong>stil</strong>. Det vil si mange trebygninger og et karakteristisk <strong>stabbur</strong>. Stabbur var der man lagra maten på gårdene før. Ellers ligger også Ringebu <strong>stavkirke</strong>i Gudbrandsdalen. Stavkirkene er gamle middelalderkirker bygget av tre.</p>
 <p>Gudbrandsdalen er også kjent for ost, norsk folkemusikk og noen av Norges fineste dialekter, i hvert fall om du spør meg. I noen av dialektene i Gudbrandsdalen har de ennå dativsformer på noen preposisjoner og <strong>substantiver</strong>. På andre norske dialekter brukes <strong>som regel</strong> ikke dativ.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:09:58</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1624204532215-a6ccfa2bd0b89.jpg"/>
 <itunes:season>3</itunes:season>
@@ -7275,7 +7354,7 @@ Norway.
 <p>Stavanger er en gammel by, en veldig gammel by. Det er mange arkeologiske funn fra Stavanger helt tilbake til den eldre jernalder. Den eldre jernalder varte fra 550 f.Kr. til 550 e.Kr. i Norge, så dette er veldig gammelt i Norge. Navnet Stavanger kommer fra norrønt, <em>Stafangr.</em> Det er et sammensatt ord av «stafr» som betyr <strong>stav</strong> og «angr» som betyr fjord.</p>
 <p>Stavanger er en av Norges eldste byer. Kanskje begynte det <strong>å vokse fram</strong> en by der allerede på 900-tallet. Dette var før Trondheim, Oslo og Bergen. <strong>Omkring</strong>år 1100 blei <strong>domkirka</strong> i Stavanger ferdig. Da blei de ferdige med å bygge domkirka i Stavanger. Dette gjorde Stavanger til et <strong>bispedømme</strong> i Norge, altså et sted med en biskop som hadde <strong>ansvaret</strong> for krikene i regionen. Stavanger var derfor en av Norges viktigste middelalderbyer. Likevel var aldri Stavanger en veldig stor by. Det var først og fremst en kirkeby. Altså en by siden det var et viktig senter for kirka i regionen.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:15:52</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1623841655908-bab392e9d5218.jpg"/>
 <itunes:season>3</itunes:season>
@@ -7387,7 +7466,7 @@ Norway.
 <p>Bergen er en veldig koselig by. Det er mange gamle <strong>trehus</strong> i Bergen. Mange i Bergen bor i slike gamle trehus. Noen av disse trehusene er flere hundre år gamle, men det betyr ikke at de er gamle inni. Inni disse trehusene er det ofte helt vanlige, moderne hus. Disse trehusene er karakteristiske for Bergen.</p>
 <p>En av de største attraksjonene i Bergen er Bryggen. Ei <strong>brygge</strong> er en plattform ved havet som båter kan ligge ved. Bryggen i Bergen ligger helt i sentrum nede ved sjøen. Den blei bygget samtidig som Bergen blei grunnlagt i 1070. I dag er Bryggen spesielt kjent for de gamle trehusene som ligger i rekker ved sjøen. 61 av disse trehusene er <strong>freda</strong>. Det betyr at de ikke kan <strong>fjernes</strong>siden de har en så stor historisk og kulturell verdi. For eksempel så hadde Hansaforbundet ett av sine <strong>hovedkontor</strong> i Bergen ved Bryggen. I dag er Bryggen på UNESCO sin verdensarvliste. Det er en av åtte steder i Norge på UNESCO sin <strong>verdensarvliste</strong>.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:18</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1623401534912-80f47999e95c7.jpg"/>
 <itunes:season>3</itunes:season>
@@ -7497,7 +7576,7 @@ Norway.
 <p>Siden det er så mange fjell i Jotunheimen, er det ganske kaldt hele året i dette området. Likevel er det ingen store <strong>isbreer</strong> i Jotunheimen. Selv om det ikke er noen store isbreer i Jotunheimen, så ligger 10% av Norges isbreareal i Jotunheimen. De fleste av isbreene i Jotunheimen er ganske små. <strong>Klimaendringer</strong>fører til at mye av isen <strong>holder på å</strong> smelte. Det var mer is og snø i Jotunheimen i 1930 enn det er i dag.</p>
 <p>Jotunheimen er i dag et populært <strong>turistmål</strong>. Det er mange som går tur i Jotunheimen i dag. Likevel har det ikke alltid vært slik. Faktisk var det først på 1800-tallet at man i Norge begynte å<strong> </strong>virkelig<strong> </strong>utforske<strong> </strong>Jotunheimen. Bøndene i Norge hadde jo ikke <strong>behov</strong> for å <strong>utforske</strong> Jotunheimen. Bønder kunne ikke plante noe så høyt oppe. På 1800-tallet begynte <strong>vitenskapsfolk</strong>i Norge å <strong>kartlegge</strong> Jotunheimen. Å kartlegge betyr at de laga kart over stedet og <strong>fant ut</strong> hva som fantes der.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:01</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1622662497123-66193f5ed3679.jpg"/>
 <itunes:season>3</itunes:season>
@@ -7605,7 +7684,7 @@ Norway.
 <p>I tillegg til tur, er det mange som reiser til Lofoten for å surfe. Lofoten har veldig fine strender, og det er veldig fint å surfe på mange av dem. I Lofoten kan man surfe blant store, vakre fjell. Det er også mange som reiser til Lofoten for å <strong>padle</strong>i kajakk eller kano. Det er veldig fine muligheter til å padle i Lofoten.</p>
 <p>Det er ikke så mange som bor i Lofoten. <strong>Til sammen </strong>bor det ca. 25,000 på alle øyene. Svolvær er det største tettstedet. Det bor 4600 personer i Svolvær, så det er ikke så stort. For innbyggerne i Lofoten er turisme en veldig viktig næring. Det er mange som reiser til Lofoten, både fra Norge og fra utlandet. Dette gjør at det er <strong>behov for</strong> steder å spise og å overnatte. Mange i Lofoten jobber med turisme.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:32</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1622041655320-32e989d954e77.jpg"/>
 <itunes:season>3</itunes:season>
@@ -7741,7 +7820,7 @@ Norway.
 <p>Trondheim har vært viktig i Norges historie. Den blei <strong>oppretta</strong> i 997, altså for mer enn 1000 år siden. Folk kom til Trondheim for å handle, og det gjorde at det utvikla seg til en by der. Trondheim var hovedstaden i Norge fram til 1217 da Bergen blei hovedstad. Trondheim var altså veldig viktig i den tidlige middelalderen i Norge.</p>
 <p>For eksempel skjedde et av de mest kjente <strong>slagene</strong> i Norges historie litt nord for Trondheim. Det var slaget ved Stiklestad. I 1030 kjempa kongen av Norge, Olav Haraldsson, et slag på Stiklestad, litt nord for Trondheim. Olav ville <strong>kristne</strong> Norge. Han ville gjøre Norge til et kristent land, slik som resten av Europa. På Stiklestad i 1030 kjempa han mot dem som ikke ville at Norge skulle bli kristent. De som kjempa mot Olav Haraldsson ønska at Norge skulle <strong>beholde</strong> den norrøne religionen. Olav blei drept på Stiklestad i 1030, men ikke <strong>forgjeves</strong>. Forgjeves betyr uten mening eller uten grunn. Olav døde ikke uten mening. Etter han døde blei han gjort om til en <strong>helgen</strong>og fikk navnet Olav den hellige. Han blei Norges nasjonalhelgen.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:15:53</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1621435482341-63ea5e9b0ec4c.jpg"/>
 <itunes:season>3</itunes:season>
@@ -7877,7 +7956,7 @@ Norway.
 <p>Oslo har likevel ikke alltid hatt det samme navnet. I 1624 bytta Christian 4., kongen av Danmark og Norge, navnet fra Oslo til Christiania. I denne perioden var Norge en del av Danmark. Norge var i union med Danmark, og den danske kongen var derfor også konge av Norge. I 1925 bytta man navnet fra Kristiania til Oslo igjen.</p>
 <p>Oslo har ikke alltid vært den største og viktigste byen i Norge. <strong>Faktisk</strong> har det ikke vært Norges hovedstad så veldig lenge. Bergen var hovedstaden i Norge i middelalderen. Bergen var også lenge Norges største by. I 1814, da Norge blei <strong>selvstendig</strong>fra Danmark, blei Oslo hovedstad. I 1814 bodde det 13,000 personer i Oslo. <strong>Til sammenligning</strong> hadde Bergen 15,000 innbyggere i 1600. I 1814 hadde Bergen ca. 20,000 innbyggere. Bergen var altså mye større enn Oslo i 1814.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:15:02</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1620896325751-db67db60a4891.jpg"/>
 <itunes:season>3</itunes:season>
@@ -7995,7 +8074,7 @@ Norway.
 <p>Vestlandet er en veldig viktig landsdel i Norge. Mange av de viktigste <strong>hendelsene</strong> i norsk historie skjedde på Vestlandet. For eksempel kom de fleste vikingene som reiste vestover fra Norge til Storbritannia, Island og Grønland fra Vestlandet. Mange norske konger i middelalderen bodde på ulike steder på Vestlandet. Bergen var lenge den største byen i Norge og <strong>hovedstaden</strong> i Norge. Oslo blei først større enn Bergen på 1800-tallet. Bergen har altså lenge vært den største og viktigste byen i Norge.</p>
 <p>På Vestlandet er det veldig mange fjell og fjorder. Den lengste fjorden i Norge ligger på Vestlandet. Den heter Sognefjorden og er 205 km lang. En <strong>fjordarm</strong> i Sognefjorden heter Nærøyfjorden. En fjordarm er en liten del av en fjord som går i en litt annen retning enn hovedfjorden. Nærøyfjorden er altså en liten del av Sognefjorden. Nærøyfjorden er et vakkert landskap med store og <strong>spisse</strong>fjell og en nydelig fjord. Faktisk er den så fin at den er på <strong>UNESCO sin</strong> <strong>verdensarvliste</strong>, ei liste med steder, bygninger og ting som er spesielt viktige <strong>å ta vare på</strong>. Andre kjente steder på Vestlandet er Geirangerfjorden, en av de mest besøkte stedene i Norge, og som også er en del av UNESCO sin verdensarvliste. I Rogaland ligger den kjente Preikestolen, eller Pulpit Rock som den heter på engelsk. Det er en <strong>fjellformasjon</strong> som stikker litt ut av fjellet. Denne fjellformasjonen former en plattform med over 500m fritt fall på sidene. Det finnes altså veldig mange fine steder på Vestlandet.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:10</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1620217489776-c3827f5389e6f.jpg"/>
 <itunes:season>3</itunes:season>
@@ -8111,7 +8190,7 @@ Norway.
 <p>Norge blir ofte grovt delt i fem deler: Østlandet, Vestlandet, Sørlandet, Midt-Norge og Nord-Norge. Østlandet, Vestlandet og Sørlandet er den delen av Norge i sør som er størst. Det er den delen av Norge før det begynner å bli smalere lenger nord. Av disse er det Østlandet som har mest folk med 2,6 millioner. Det har nest størst areal med 94,500km2. Det er ca. 30% av <strong>Fastlands-Norges</strong>areal, altså arealet til Norge uten Svalbard og Jan Mayen.</p>
 <p>Sørlandet er den minste av disse fem. Sørlandet er helt sør i Norge. Sørlandet består av bare ett fylke: Agder. Det er 16,000 km2 stort, altså nesten 6 ganger mindre i areal enn Østlandet. Det bor ca. 310,000 på Sørlandet.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:15:20</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1619680676768-82c041d287825.jpg"/>
 <itunes:season>3</itunes:season>
@@ -8227,7 +8306,7 @@ Norway.
 <p>Det er også mange <strong>dataspel</strong> som er inspirerte av norrøn mytologi. <em>God of War: Ragnarök</em> er eit eksempel på dette. Det er eit spel som kjem i år, 2021, og som skal handla om norrøn mytologi.</p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:09</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1619100480171-5ea89d0d8cb87.jpg"/>
 <itunes:season>2</itunes:season>
@@ -8341,7 +8420,7 @@ Norway.
 <p>Blotene skjedde altså på <strong>bestemte</strong> tider i året. Høstblotet skjedde på høsten, sannsynligvis i oktober. På dette blotet ofra man for å takke for maten man hadde <strong>sanka inn</strong> til vinteren. Vikingene ofra også til gudene for at de skulle beskytte dem mot vinteren og for at maten skulle <strong>vare </strong>hele vinteren. Altså at folk skulle ha nok mat til hele vinteren.</p>
 <p>Midtvintersblotet skjedde i slutten av desember når sola er på sitt laveste i Norge. Dette heter <strong>vintersolverv</strong>på norsk. Det er når sola er på det laveste; det er den dagen i året med minst sollys. Midtvintersblotet gikk ut på å ofre til ære for sola slik at den skulle komme tilbake. De ofra for at sola skulle <strong>snu</strong> og ta med seg lys og varme igjen. Midtvintersblotet heter også jul, og i Norge feirer vi fortsatt jul. I dag i Norge har derimot jul fått en ny betydning. Jul betyr ikke lenger midtvintersblot, men blir brukt om den samme høytida som heter «Christmas» på engelsk. I dag er jul nærmere knytta til Jesu fødsel enn til norrønt midvinterblot. Likevel feirer vi jul i dag på nesten akkurat samme tid som midtvinterblotet i vikingtida.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:35</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1618582205973-7e90f019d4b5a.jpg"/>
 <itunes:season>2</itunes:season>
@@ -8461,7 +8540,7 @@ Norway.
 <p>Etter Fimbulvinteren, altså etter tre år med vinter, starter det store branner <strong>overalt</strong>. Plutselig begynner det å brenne etter tre år med vinter. Ulvene Skoll og Hate, ulvene som <strong>jager</strong> sola og månen over himmelen, klarer nå å <strong>sluke</strong>både sola og månen. Skoll og Hate spiser sola og månen slik at de forsvinner. Stjernene forsvinner også fra himmelen. Dette gjør at det blir helt mørkt i Midgard ettersom det ikke er sol, måne eller stjerner lenger.</p>
 <p>Før ragnarok er mange av de farligste jotnene i norrøn mytologi <strong>bundet fast</strong>med lenker. Mange av de farligste jotnene er <strong>lenka</strong> fast slik at de ikke slipper ut. Ei <strong>lenke</strong> er metallringer som man kan feste fanger fast med. For eksempel er Fenrisulven, en stor og farlig ulv, bundet fast med lenker. Loke har også blitt lenka fast, altså bundet fast med lenker, før ragnarok. Både Fenrisulven og Loke klarer <strong>å bryte seg ut</strong> av lenkene sine i denne perioden. De klarer å bryte seg løs og bli fri. Midgardsormen, den store slangen og jotnen som holder verden på plass, kommer opp fra havet for å sloss mot gudene. Loke er jotun, men også fosterbroren til Odin, <strong>og dermed</strong> en del av gudene. Likevel viser Loke nå hvem han egentlig er. Loke viser at han er jotun og han leder jotnene i kampen mot æsene.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:15:58</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1617899475514-73f0d66d6c98b.jpg"/>
 <itunes:season>2</itunes:season>
@@ -8593,7 +8672,7 @@ Norway.
 <p>Frøya var også gudinne for fruktbarhet. Hun <strong>passet på</strong> at jordbruket gikk bra. Altså at bøndene fikk mye mat når de planta og <strong>høsta</strong>. I tillegg var hun gudinne for menneskelig kjærlighet og erotikk. Dersom et par i vikingtida <strong>sleit med</strong> å få barn, så kunne de ofre til Frøya. Frøya likte ikke bare den erotiske sida av kjærligheten, hun var også glad i <strong>kjærlighetsdikt</strong>.</p>
 <p>Men av og til gikk Frøya kanskje litt langt. I Loketretten, en fortelling om hvordan Loke kritiserer gudene i norrøn mytologi, <strong>beskylder</strong> Loke Frøya for å være <strong>løsaktig</strong>. Å beskylde betyr å <strong>anklage</strong> noen for noe, altså si at noen har gjort noe. Loke beskyldte Frøya for å være løsaktig, noe som betyr å ha et erotisk forhold til mange. Altså, ha sex med mange. Loke beskyldte henne for å ha sex med alle æser og alver, og til og med sin egen bror, Frøy. Mange kilder <strong>tyder på</strong>at Loke hadde rett i sine <strong>beskyldninger</strong>.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:14:03</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1616697107171-4cebb321f691b.jpg"/>
 <itunes:season>2</itunes:season>
@@ -8709,7 +8788,7 @@ Norway.
 <p>Myten er at Odin ofra seg ved å henge seg på treet Yggdrasil. Han hang seg der for å få makt over runene. Runene er bokstavene de skreiv med i vikingtida. Odin ofra seg selv for at vi skulle få runene og kunne skrive. Odin gjorde alt for å få mer kunnskap. En annen myte forteller om hvordan han ofra et øye for å få mer kunnskap. Nå ofra han seg selv på et tre for å få runene. Ofringen av Odin på et tre <strong>ligner</strong> litt <strong>på</strong> Jesu <strong>korsfestelse</strong> i kristendommen. Kanskje fortellingen om Odin som ofrer seg på et tre kan være inspirert av Jesus og kristendommen?</p>
 <p>Yggdrasil har tre <strong>røtter</strong>. De går langt under jorda. Den ene rota går til æsenes land, altså landet til gudene, Åsgard. Den andre rota går til rimtussene, en slags skapninger i norrøn mytologi. Den tredje og siste rota går til Nivlheim. Nivlheim er <strong>dødsriket</strong> i norrøn mytologi. Denne rota blir angrepet av Nidhogg. Nidhogg er en slange som spiser den ene rota til Yggdrasil.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:10</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1616433198140-4ca22d23212.jpg"/>
 <itunes:season>2</itunes:season>
@@ -8841,7 +8920,7 @@ Norway.
 <p>Loke kan bytte form. For eksempel kan han gjøre seg om til ei gammel dame. En annen gang gjør han seg om til ei <strong>flue</strong>. Han har også forvandla seg til en hest.</p>
 <p>Loke er veldig spennende. Han kan være <strong>plagsom</strong> og <strong>løgnaktig</strong>, men også hjelpsom. For eksempel er han med og hjelper Odin eller Tor i flere av mytene i norrøn mytologi. Tor hater Loke, men ofte er Loke med og hjelper Tor med et problem. Likevel kan også Loke være mer <strong>skadelig</strong> for gudene. Han kan være <strong>svikefull</strong>. Svikefull betyr at man ofte sviker folk, altså <strong>forræder</strong>dem. Noen ganger er han faktisk <strong>ond</strong>. La oss se på noen av mytene om Loke.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:18:24</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1616005712286-9d3b323832603.jpg"/>
 <itunes:season>2</itunes:season>
@@ -8985,7 +9064,7 @@ Norway.
 <p>Et av de viktigste symbolene knytta til Tor er hammeren hans Mjølner. Mjølner blei <strong>smidd</strong>av to dverger; det var to dverger som laga Mjølner til Tor som en del av et <strong>veddemål</strong>. Dette er et av de beste våpnene i norrøn religion. Tor brukte hammeren til å beskytte de andre gudene fra kaoskreftene. Når Tor kasta Mjølner, kunne han ikke <strong>bomme</strong>. Han traff alt han <strong>sikta på</strong> med hammeren. I tillegg kommer hammeren alltid tilbake til Tor når han kaster den, akkurat som en bumerang. For å holde Mjølner, har Tor to hansker av jern på seg. I tillegg har han et belte rundt magen som heter Megingjord. Beltet Megingjord gjør han enda sterkere.</p>
 <p>Det var vanlig for folk i vikingtida å henge en hammer rundt <strong>halsen</strong> som et <strong>smykke</strong>. Mange hadde smykker med Tors hammer, Mjølner. Dette ligner veldig på hvordan korset blir brukt i kristendommen. Mange kristne henger et kors rundt halsen. I vikingtida var det mange som gjorde det samme med Tors hammer.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:17:54</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1615393624452-2ca3f2f164758.jpg"/>
 <itunes:season>2</itunes:season>
@@ -9111,7 +9190,7 @@ Norway.
 <p>Odin var ikke bare gud for krig. Han var også gud for visdom og <strong>trolldom</strong>. For å bli <strong>visere</strong> og klokere, <strong>ofra</strong> han det ene øyet sitt for å drikke av <strong>kunnskapsbrønnen</strong>. Kunnskapsbrønnen ligger</p>
 <p>ved rota av Yggdrasil, livets tre. Odin blei <strong>enøyd</strong> av dette, men han blei også den klokeste guden. I tillegg til klokskap var han trolldomsguden. Trolldom er magi og <strong>heksekunster</strong>. Han var også guden for <strong>runeskrift</strong>. Runer er bokstavene vikingene skreiv med. Ifølge en myte var det Odin som ga menneskene runene, og dermed <strong>mulighet</strong> til å skrive og lese.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:28</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1614874087362-21a7cde8154c7.jpg"/>
 <itunes:season>2</itunes:season>
@@ -9241,7 +9320,7 @@ Norway.
 <p>Odin, Vilje og Ve skapte jorda. Før dette fantes ikke jorda. Midgard og Åsgard fantes ikke. Mennesker og dyr fantes ikke. Det gjorde <strong>heller ikke</strong> planter og tre. Odin, Vilje og Ve skapte jorda ved å drepe Yme. Yme var det første vesenet som blei skapt. Yme blei skapt på samme tid som Audhumbla. Yme var en jotun. Odin, Vilje og Ve brukte <strong>kroppsdelene</strong> til den døde Yme til å skape jorda. Jorda blei laga av Ymes <strong>kjøtt</strong>. Fjellene blei skapt ved Ymes bein. Hava og sjøene blei skapt ved Ymes blod. Hodet til Yme blei til himmelen. Ymes <strong>hjerne</strong>blei til <strong>skyene</strong>. Etter at alt dette var skapt, begynte gudene å lage <strong>orden</strong>i den nye verden. De laga <strong>naturlovene</strong> og tida blei til. Gudene delte dagen inn i morgen, middag, ettermiddag og kveld.</p>
 <p>Jorda var skapt, men menneskene fantes ikke ennå. Det var æsene Odin, Høner og Lod som skapte menneskene. Disse gudene fant to trær på bakken. Disse trærne var ikke levende. Odin ga trærne <strong>pust</strong>. Høner ga dem <strong>sjel</strong>. Lod ga dem hår og <strong>menneskeansikt</strong>. Odin, Høner og Lod skapte <strong>slik</strong> de første menneskene ved å <strong>omforme</strong> to trær. De to menneskene var en mann og ei kvinne. <strong>Kjønnene</strong> blei skapt på samme tid i norrøn mytologi. De første menneskene heter Ask og Embla. Ask var mann og Embla var kvinne.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:42</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1614086735526-f67b3ceba36c1.jpg"/>
 <itunes:season>2</itunes:season>
@@ -9379,7 +9458,7 @@ Norway.
 <p>La oss <strong>se litt nærmere på</strong> norrøn mytologi. <strong>Verdensbildet</strong> i norrøn mytologi er delt i tre. Verdensbilde er hvordan man forstår verden rundt seg. I norrøn mytologi er verdensbildet delt i tre ulike <strong>riker</strong>: Åsgard, Midgard og Utgard. Ordet «gard» er det nynorske ordet for gård. Åsgard er <strong>helt oppe</strong>på Yggdrasil, livets tre som står midt i verden. Åsgard er helt oppe og det er her gudene bor. Midgard er rundt Yggdrasil. Det er her mennesker og dyr <strong>holder til</strong>. Midgard er <strong>midt imellom</strong> Åsgard og Utgard. Utgard er utenfor Midgard. Utgard er kaldt og mørkt. Her bor det jotner og andre <strong>kaoskrefter</strong>. I Utgard bor det <strong>vesener</strong>og krefter som er <strong>farlige</strong> for mennesker og guder.</p>
 <p>I norrøn mytologi finnes det to ulike <strong>gudeslekter</strong>. Den ene slekta er vanegudene eller bare vaner. De viktigste vanegudene er Njord og barna hans Frøy og Frøya. Njord, Frøy og Frøya er alle <strong>fruktbarhetsguder</strong>. De er <strong>forbundet med</strong>godt <strong>jordbruk</strong> og seksualitet. Den andre gudeslekta er æser. Den mektigste av æsene er Odin. Odin er den øverste guden i norrøn mytologi. Han er guden for visdom, mystikk og <strong>krig</strong>. En annen viktig æse er Tor, sønnen til Odin. Tor er guden for <strong>lyn og torden</strong>, for kampstyrke og for fruktbarhet.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:18:45</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1613586717951-f5affe5b4cb76.jpg"/>
 <itunes:season>2</itunes:season>
@@ -9565,7 +9644,7 @@ Norway.
 <p>YouTube: <a href="https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A">⁠⁠⁠⁠⁠https://www.youtube.com/channel/UCxdRJ5lW2QlUNRfff-ZoE-A⁠⁠⁠</a><strong></strong></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:34:05</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12458523/12458523-1612293410160-23a9be9fbb4dc.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -9726,7 +9805,7 @@ Norway.
 <p>Med sesong ein har eg prøvd å gje dykk eit lite innblikk i det norske språket. De <strong>held no på å</strong> lære dykk norsk. Då trur eg det er <strong>greitt</strong> at de kan litt om språket. I <strong>byrjinga</strong> av å læra eit språk er det <strong>mykje</strong> å <strong>setta seg inn</strong> i og mykje nytt å læra. Eg håpar at de kanskje har lært litt om det norske språket. Også håpar eg <strong>sjølvsagt</strong> at de har lært litt norsk. <strong>Gje</strong>meg <strong>gjerne</strong> <strong>tilbakemeldingar</strong> på formatet og på sesongen. Har det vert greie tema? Er formatet greitt med ein norsk del, ein engelsk del og litt ord til slutt?</p>
 <p>Til slutt vil eg berre seie at sesong 2 kjem til å handla om norrøn mytologi. Då skal me sjå på dei norrøne gudane som for eksempel Odin, Tor, Frøya og Loke. Me kjem til å sjå på nokre av mytane og <strong>forteljingane</strong> som forteljinga om ragnarok, <strong>verdas undergang</strong>, og <strong>skapinga</strong>. <strong>Forhåpentlegvis</strong>kan me også lesa nokre <strong>utdrag</strong> frå dei. Utdrag tyder smådelar frå ein tekst. Eg <strong>gler meg</strong> <strong>til</strong> det og håper at du vil fortsetta å <strong>lytta</strong>til podkasten.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:07:40</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1613047093813-63b02a74fdc74.jpg"/>
 <itunes:episodeType>full</itunes:episodeType>
@@ -9844,7 +9923,7 @@ Norway.
 <p>Likevel kan vi si noe generelt. Skrevet dansk er lettere å forstå enn skrevet svensk. Dansk og norsk bokmål er veldig like. Svensk bruker derimot noen bokstaver som ikke blir brukt på norsk. I tillegg er <strong>skrivemåtene</strong> og <strong>rettskrivinga</strong>litt annerledes, noe som gjør at like ord mellom norsk og svensk kanskje skrives ganske annerledes. Så, skriftlig dansk er lettere å forstå enn skriftlig svensk.</p>
 <p>Men <strong>muntlig</strong>svensk er mye lettere å forstå enn muntlig dansk. Muntlig dansk er nok det svensker og nordmenn <strong>sliter</strong> mest med. Svensk og norsk <strong>ligner mer på</strong>hverandre muntlig. Det er lett å forstå muntlig svensk, men muntlig dansk kan være vanskeligere å forstå. Svensker og nordmenn snakker generelt sine egne språk til hverandre. Nordmenn og dansker bruker ofte engelsk. Dansk har ganske annerledes <strong>lyder</strong> enn norsk og svensk. De <strong>kutter</strong> større <strong>deler</strong> av ordene og har mange <strong>strupelyder</strong>. Strupelyder er lyder som kommer fra halsen. For nordmenn og svensker høres det ut som om de ikke <strong>uttaler</strong>ordene skikkelig. Skrevet dansk er <strong>nemlig</strong> ganske annerledes fra muntlig dansk. Muntlig og skriftlig dansk er ganske ulike hverandre. Dette kan <strong>sammenlignes</strong>litt med engelsk skriftlig og engelsk muntlig som også er ganske ulike hverandre.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:13:06</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612961345027-60ffb28165b6a.jpg"/>
 <itunes:season>1</itunes:season>
@@ -9976,7 +10055,7 @@ Norway.
 <p><em>Folk og røvere i Kardemomme by </em>blei publisert i 1955. Den er også skrevet av Thorbjørn Egner. Det er også ei veldig kjent norsk bok. I <strong>dyreparken</strong> i Kristiansand har de bygget flere bygninger fra boka. I dyreparken i Kristiansand har de også <strong>skuespillere</strong>som spiller ulike karakterer fra boka. Det er kanskje litt <strong>likt</strong> som at det er flere Disneykarakterer i Disneyworld.</p>
 <p><strong>Det er lurt</strong> å begynne å <strong>lese</strong>barnebøker og <strong>ungdomsbøker</strong> på norsk. Barne- og ungdomsbøker har ofte et litt lettere språk å forstå. Dere kan jo for eksempel lese noen av bøkene til Anne Cath. Vestly eller Thorbjørn Egner. Det er bøker som er svært kjente i Norge. Da får dere også mye informasjon om og innsikt i norsk kultur.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:18</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612901689871-65035ab0607b2.jpg"/>
 <itunes:season>1</itunes:season>
@@ -10106,7 +10185,7 @@ Norway.
 <p>Det er også skrevet mye bra litteratur på norsk. Henrik Ibsen, en norsk forfatter, er den <strong>nest mest</strong> spilte dramatikeren i verden. På teater rundt omkring i verden er det bare Shakespeare som har flere teaterstykker enn Henrik Ibsen. Det finnes også flere norske forfattere som har vunnet Nobelprisen i litteratur som for eksempel Knus Hamsun og Sigrid Undset. Kanskje du har hørt om Jo Nesbø? Han har skrevet <strong>krimbøker</strong> som har blitt <strong>oversatt</strong> til mange språk.</p>
 <p>Jeg synes derimot at den beste <strong>grunnen</strong> til å lære norsk er språket <strong>i seg selv</strong>. Dette er den grunnen jeg liker best. Kanskje du elsker hvordan norsk høres ut? Lyden av norsk, melodiene og intonasjonen. Kanskje du bare like hvordan norsk ser ut? Ordene, grammatikken, syntaksen, <strong>setningsoppbygningen</strong> og ordtakene. Eller kanskje du synes det er interessant med dialekter og språkvarianter? Norsk er et språk med mange dialekter. Dialektene er noe av det som gjør norsk til et så rikt språk som det er.</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:12:04</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612710361271-e27d33adb38bd.jpg"/>
 <itunes:season>1</itunes:season>
@@ -10338,7 +10417,7 @@ https://www.duolingo.com
 <p><br/></p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:10:08</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612529027501-6ec54617a18d8.jpg"/>
 <itunes:season>1</itunes:season>
@@ -10454,7 +10533,7 @@ https://www.duolingo.com
 <p>Sjelden – Rare</p>
 <p>Heldig – Lucky</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:08:09</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612463762319-64eaefdf9ee5f.jpg"/>
 <itunes:season>1</itunes:season>
@@ -10533,7 +10612,7 @@ https://www.duolingo.com
 <p>Begge disse gruppene laga sine egne skriftspråk. Ivar Aasen laga et skriftspråk basert på norske dialekter. Det norske skriftspråket basert på dialekter heter i dag nynorsk. Nynorsk blei laga <strong>med utgangspunkt i</strong> norske dialekter. Den andre gruppa konstruerte et skriftspråk basert på dansk. Det danske skriftspråket blei gjort mer norsk over tid. Dette førte til bokmål. Bokmål oppstod via dansk. Dette er grunnen til at vi har to skriftspråk i Norge. På 1800-tallet blei ikke folk <strong>enige </strong>i hvordan man skulle lage et nytt norsk skriftspråk. Det førte til to nye skriftspråk. Norsk kan derfor skrives på to ulike måter i dag: Nynorsk og bokmål.</p>
 <p><br/></p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:11:22</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612427536317-2d1ce05728936.jpg"/>
 <itunes:season>1</itunes:season>
@@ -10667,7 +10746,7 @@ https://www.duolingo.com
 <p>Måte – Way (for example «way of doing something»)</p>
 <p>Etter hvert – After a while</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:08:22</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612424502836-a778256586348.jpg"/>
 <itunes:season>1</itunes:season>
@@ -10789,7 +10868,7 @@ https://www.duolingo.com
 <p>Derimot – However</p>
 <p>Sammenligna med… – Compared to…</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:08:50</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612299251883-de2a2a0454b2c.jpg"/>
 <itunes:season>1</itunes:season>
@@ -10941,7 +11020,7 @@ https://www.duolingo.com
 <p>Ligger nærmere… – Is closer to…</p>
 <p>Utvikla seg fra… – Evolved from…</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:09:54</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612296482116-27deca2b673be.jpg"/>
 <itunes:season>1</itunes:season>
@@ -10989,7 +11068,7 @@ https://www.duolingo.com
 <p>My second point is that podcasts for beginners tend to be a bit boring, to be honest. The language might be so simple that not much is really being said. I want to create episodes around a theme in order to contextualize the language and hopefully make the content more engaging. The language that I use will, of course, be adopted to your level. That means that you will get a lot of input at your level and maybe slightly above your level, which is exactly what you want.</p>
 <p>So, to sum up. “Norsk for beginners” is made for those of you who really want to learn the language. It might be challenging, it might be frustrating, but first and foremost, it will teach you a lot of Norwegian. I look forward to see you in future episodes!</p>
 </itunes:summary>
-<itunes:explicit>No</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <itunes:duration>00:04:46</itunes:duration>
 <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12458523/12458523-1612293131920-c6debc8b42ba.jpg"/>
 <itunes:episodeType>trailer</itunes:episodeType>
